@@ -19,12 +19,21 @@ def get_jobs(keyword_job, keyword_location, num_jobs, verbose, path, slp_time):
     driver.set_window_size(1120, 1000)
 
     # url = "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"&locT=&locId=&jobType="
-    # url = 'https://www.glassdoor.com/Job/jobs.htm?sc.keyword="' + keyword + '"&locT=C&locId=1147401&locKeyword=San%20Francisco,%20CA&jobType=all&fromAge=-1&minSalary=0&includeNoSalaryJobs=true&radius=100&cityId=-1&minRating=0.0&industryId=-1&sgocId=-1&seniorityType=all&companyId=-1&employerSizes=0&applicationType=0&remoteWorkType=0'
-    # url = 'https://www.glassdoor.com/Search/results.htm?keyword=' + keyword_job + '&locId=6&locT=N&locName=' + keyword_location
-    url = 'https://www.glassdoor.com/Job/united-arab-emirates-data-scientist-jobs-SRCH_IL.0,20_IN6_KO21,35.htm'
+    # url = 'https://www.glassdoor.com/Job/united-arab-emirates-data-scientist-jobs-SRCH_IL.0,20_IN6_KO21,35.htm'
+    url = "https://www.glassdoor.com/Search/results.htm?keyword=" + \
+        keyword_job + "&locId=6&locT=N&locName=" + keyword_location
     print(url)
     driver.get(url)
     jobs = []
+
+    try:
+        # clicking to the "See All Jobs" button.
+        driver.find_element(
+            By.XPATH, '//div[@class="mt-std d-flex justify-content-center"]//strong[@class="mr-xxsm"]').click()
+        # print('  "See All Jobs"  worked')
+    except NoSuchElementException:
+        # print('  "See All Jobs" failed')
+        pass
 
     # If true, should be still looking for new jobs.
     while len(jobs) < num_jobs:
@@ -39,7 +48,7 @@ def get_jobs(keyword_job, keyword_location, num_jobs, verbose, path, slp_time):
         # jl for Job Listing. These are the buttons we're going to click.
         job_buttons = driver.find_elements(
             By.XPATH, '//li[@class="react-job-listing css-wp148e eigr9kq3"]')
-        print('job_buttons DONE, length=', len(job_buttons))
+        # print('job_buttons DONE, length=', len(job_buttons))
         job_count = 0
 
         for job_button in job_buttons:
@@ -56,9 +65,9 @@ def get_jobs(keyword_job, keyword_location, num_jobs, verbose, path, slp_time):
             try:
                 # clicking to the X.
                 driver.find_element(By.XPATH, '//span[@alt="Close"]').click()
-                print(' x out worked')
+                # print(' x out worked')
             except NoSuchElementException:
-                print(' x out failed')
+                # print(' x out failed')
                 pass
 
             while not collected_successfully:
@@ -78,18 +87,26 @@ def get_jobs(keyword_job, keyword_location, num_jobs, verbose, path, slp_time):
             try:
                 salary_estimate = job_button.find_element(
                     By.XPATH, './/span[@data-test="detailSalary"]').text
-                print('SALARY INFO-------->', salary_estimate)
+                # print('SALARY INFO-------->', salary_estimate)
             except NoSuchElementException:
                 salary_estimate = -1  # You need to set a "not found value. It's important."
-                print('SALARY INFO-------->', salary_estimate)
+                # print('SALARY INFO-------->', salary_estimate)
 
             try:
                 rating = job_button.find_element(
                     By.XPATH, './/span[@class=" css-2lqh28 e1cjmv6j1"]').text
-                print('RATING INFO-------->', rating)
+                # print('RATING INFO-------->', rating)
             except NoSuchElementException:
                 rating = -1  # You need to set a "not found value. It's important."
-                print('RATING INFO-------->', rating)
+                # print('RATING INFO-------->', rating)
+
+            try:
+                job_age = job_button.find_element(
+                    By.XPATH, './/div[@class="d-flex align-items-end pl-std css-1vfumx3"]').text
+                # print('RATING INFO-------->', rating)
+            except NoSuchElementException:
+                job_age = -1  # You need to set a "not found value. It's important."
+                # print('RATING INFO-------->', rating)
 
             # Printing for debugging
             if verbose:
@@ -99,14 +116,15 @@ def get_jobs(keyword_job, keyword_location, num_jobs, verbose, path, slp_time):
                 print("Rating: {}".format(rating))
                 print("Company Name: {}".format(company_name))
                 print("Location: {}".format(location))
+                print("job_age: {}".format(job_age))
 
             try:
                 size = driver.find_element(
                     By.XPATH, './/div[@class="d-flex justify-content-start css-rmzuhb e1pvx6aw0"]//span[text()="Size"]//following-sibling::*').text
-                print('Found the size of the company')
+                # print('Found the size of the company')
             except NoSuchElementException:
                 size = -1
-                print('Didnt find the size of the company')
+                # print('Didnt find the size of the company')
 
             try:
                 founded = driver.find_element(
@@ -161,7 +179,7 @@ def get_jobs(keyword_job, keyword_location, num_jobs, verbose, path, slp_time):
                          "Rating": rating,
                          "Company Name": company_name,
                          "Location": location,
-                         # "Headquarters" : headquarters,
+                         "job_age": job_age,
                          "Size": size,
                          "Founded": founded,
                          "Type of ownership": type_of_ownership,
@@ -172,11 +190,13 @@ def get_jobs(keyword_job, keyword_location, num_jobs, verbose, path, slp_time):
 
             # add job to jobs
             job_count += 1
-            print('job_count = ', job_count)
+            # print('job_count = ', job_count)
 
         # Clicking on the "next page" button
         try:
-            driver.find_element(By.XPATH, './/li[@class="next"]//a').click()
+            driver.find_element(
+                By.XPATH, './/button[@class="nextButton css-1hq9k8 e13qs2071"]').click()
+            print('NEXT button is clicked')
         except NoSuchElementException:
             print("Scraping terminated before reaching target number of jobs. Needed {}, got {}.".format(
                 num_jobs, len(jobs)))

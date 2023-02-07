@@ -1,8 +1,20 @@
 import pandas as pd
 import glassdoor_scraper as gs
+import pickle5 as pickle 
 
 path = "/Users/svetlanamaslenkova/Documents/DS_project/chromedriver_mac64/chromedriver"
 
-df = gs.get_jobs('data scientist', 'United Arab Emirates', 5, True, path, 15)
+# webscraping Data Analyst Jobs
+df = gs.get_jobs('data analyst', 'United Arab Emirates', 330, True, path, 15)
 
-print(df)
+# saving the dataframe
+with open('/Users/svetlanamaslenkova/Documents/DS_project/da_jobs_scraped.pkl', 'wb') as handle:
+    pickle.dump(df, handle, protocol=pickle.HIGHEST_PROTOCOL)
+
+
+# webscraping Data Scientist Jobs
+df = gs.get_jobs('data analyst', 'United Arab Emirates', 55, True, path, 15)
+
+# saving the dataframe
+with open('/Users/svetlanamaslenkova/Documents/DS_project/ds_jobs_scraped.pkl', 'wb') as handle:
+    pickle.dump(df, handle, protocol=pickle.HIGHEST_PROTOCOL)
