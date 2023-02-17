@@ -91,14 +91,6 @@ words = re.findall(r'\w+', result_text)
 two_words = [' '.join(ws) for ws in zip(words, words[1:])]
 wordscount = {w:f for w, f in Counter(two_words).most_common() if f > 1}
 
-# # add experience level column
-# jobs_with_salary_df['junior_lvl'] = jobs_with_salary_df['job_title'].apply(lambda x: \
-#             1 if 'junior' in x.lower() else 0)
-# jobs_with_salary_df['senior_lvl'] = jobs_with_salary_df['job_title'].apply(lambda x: \
-#             1 if 'senior' in x.lower() or 'expert' in x.lower()  else 0)
-jobs_with_salary_df['experience_level'] = jobs_with_salary_df['job_title'].apply(lambda x: \
-            1 if 'junior' in x.lower() else 2 if 'senior' in x.lower() or 'expert' in x.lower()\
-                or 'lead' in x.lower()  else 0)
 
 # # rearrange the columns
 # jobs_with_salary_df = jobs_with_salary_df[['job_title',
