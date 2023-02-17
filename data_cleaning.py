@@ -9,8 +9,11 @@ import pickle5 as pickle
 from collections import Counter
 import re
 
+curr_path = '/Users/svetlanamaslenkova/Documents/DS_project/'
+data_scraped_path = curr_path + 'data_scraped/'
+
 # open & and retrieve rows with salary info
-with open('/Users/svetlanamaslenkova/Documents/DS_project/jobs_df.pkl', 'rb') as handle:
+with open(data_scraped_path + 'jobs_df.pkl', 'rb') as handle:
     jobs_df = pickle.load(handle)
 print(jobs_df.shape)
 jobs_df.salary_description = jobs_df.salary_description.fillna(-1)
@@ -100,14 +103,6 @@ jobs_with_salary_df['experience_level'] = jobs_with_salary_df['job_title'].apply
 # # rearrange the columns
 # jobs_with_salary_df = jobs_with_salary_df[['job_title',
 #  'salary_estimate',
-# 'salary_description',
-#  'hourly',
-#  'annually',
-#  'salary',
-#  'currency',
-#  'min_salary',
-#  'max_salary',
-#  'avg_salary',
 #  'job_description',
 #  'rating',
 #  'company_name',
@@ -122,6 +117,22 @@ jobs_with_salary_df['experience_level'] = jobs_with_salary_df['job_title'].apply
 #  'competitors',
 #  'date_scrapped',
 #  'job_fam',
-#  'company_age'
+#  'salary_description',
+#  'hourly',
+#  'annually',
+#  'salary',
+#  'currency',
+#  'min_salary',
+#  'max_salary',
+#  'avg_salary',
+#  'company_age',
+#  'python_yn',
+#  'r_yn',
+#  'spark_yn',
+#  'aws_yn',
+#  'pytorch_yn',
+#  'tf_yn',
+#  'ml_yn',
+#  'experience_level'
 # ]]
-
+jobs_with_salary_df.to_csv('glassdoor_jobs.csv', index=False)
