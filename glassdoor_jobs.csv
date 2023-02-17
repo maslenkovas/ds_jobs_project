@@ -1,16 +1,16 @@
-job_title,salary_estimate,job_description,rating,company_name,location,job_age,size,founded,type_of_ownership,industry,sector,revenue,competitors,date_scrapped,job_fam,salary_description,hourly,annually,salary,currency,min_salary,max_salary,avg_salary,company_age,python_yn,r_yn,spark_yn,aws_yn,pytorch_yn,tf_yn,ml_yn,experience_level
+job_title,salary_estimate,job_description,rating,company_name,location,job_age,size,founded,type_of_ownership,industry,sector,revenue,competitors,date_scrapped,job_fam,salary_description,hourly,annually,salary,currency,min_salary,max_salary,avg_salary,company_age,python_yn,r_yn,spark_yn,aws_yn,pytorch_yn,tf_yn,ml_yn
 "JUNIOR DATA SCIENTIST - Dubai, UAE",-1,"Location: Dubai, UAE (We provide visa sponsorship & relocation assistance)
 Starting salary of USD 60,000 per annum - 0% tax environment
 About Cobblestone Energy
 Cobblestone Energy is an energy trading company specialising in the Great Britain and European wholesale electricity markets. Founded in 2017, we are part of the next generation of companies defining the future of global commodity trading.
-We make use of advanced data analytics and extensive research to drive profitable decision making, trading enough electricity every day to power a small country, and growing every day. In doing so, we help to balance the electricity grid, lowering the cost to end consumers, and aiding the transition to a renewable future. Technology and risk management form the backbone of our business.",-1,"Cobblestone Energy, Dubai - UAE.",Sharjah,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,ds,"USD 60,000 per annum - 0%",0,1,"USD 60,000 per annum - 0%",usd,60000.0,60000.0,60000.0,-1,0,0,0,0,0,0,0,1
+We make use of advanced data analytics and extensive research to drive profitable decision making, trading enough electricity every day to power a small country, and growing every day. In doing so, we help to balance the electricity grid, lowering the cost to end consumers, and aiding the transition to a renewable future. Technology and risk management form the backbone of our business.",-1,"Cobblestone Energy, Dubai - UAE.",Sharjah,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,ds,"USD 60,000 per annum - 0%",0,1,"USD 60,000 per annum - 0%",usd,60000.0,60000.0,60000.0,-1,0,0,0,0,0,0,0
 "SENIOR DATA SCIENTIST - Dubai, UAE",-1,"Employment type: Full-time & Permanent
 Reports to: CEO
 Location: Dubai, UAE (We provide visa sponsorship & relocation assistance)
 Annual Base Salary range of 80,000 USD – 150,000 USD + performance-based bonus' - 0% tax environment + an opportunity to join our employee share scheme.
 About Cobblestone Energy
 Cobblestone Energy is an energy trading company specialising in the Great Britain and European wholesale electricity markets. Founded in 2017, we are part of the next generation of companies defining the future of global commodity trading.",5.0,"Cobblestone
-5.0",Dubai,10d,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,ds,"80,000 USD – 150,000 USD",0,1,"80,000 USD – 150,000 USD",usd,80000.0,150000.0,115000.0,-1,0,0,0,0,0,0,0,2
+5.0",Dubai,10d,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,ds,"80,000 USD – 150,000 USD",0,1,"80,000 USD – 150,000 USD",usd,80000.0,150000.0,115000.0,-1,0,0,0,0,0,0,0
 Research Scientist,AED 20K - AED 25K (Employer est.),"Research Scientist Position Description
 General Details
 Position Duration 01/02/2023 to 31/12/2026
@@ -20,41 +20,41 @@ the nuclear-industry use case
 Project Supervisor Dr. Mohamed Kamel RIAHI, Assistant Professor of Mathematics mohamed[dot]riahi[_at_]ku[dot]ac[_dot_]ae
 Academic
 Department Mathematics Department",3.6,"Khalifa University
-3.6",Abu Dhabi,24h,501 to 1000 Employees,2007,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,-1,2023-02-06,other,-1,0,0,AED 20K - AED 25K ,aed,20000.0,25000.0,22500.0,16,0,0,0,0,0,0,0,0
+3.6",Abu Dhabi,24h,501 to 1000 Employees,2007,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,-1,2023-02-06,other,-1,0,0,AED 20K - AED 25K ,aed,20000.0,25000.0,22500.0,16,0,0,0,0,0,0,0
 Senior Data Scientist - Remote,AED 32K - AED 40K (Employer est.),"Launched in 2019, Binance.US is the fastest growing and most integrated digital asset marketplace in the United States, powered by matching engine and wallet technologies license from the world’s largest cryptocurrency exchange - Binance. Our mission is to provide liquidity, transparency, and efficiency to financial markets by creating products that leverage crypto to unlock the power of everything. We build bridges between traditional finance and digital markets that enable growth for all—empowering the future of finance. Binance.US is operated by BAM Trading Services.
 Responsibilities
 Identify potential business opportunities within your area and scope/design approaches to capture those opportunities
 Facilitate data driven decision making across the company",3.5,"Binance.us
-3.5",Dubai,30d+,501 to 1000 Employees,2019,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1,2023-02-06,ds,-1,0,0,AED 32K - AED 40K ,aed,32000.0,40000.0,36000.0,4,0,0,0,0,0,0,0,2
+3.5",Dubai,30d+,501 to 1000 Employees,2019,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1,2023-02-06,ds,-1,0,0,AED 32K - AED 40K ,aed,32000.0,40000.0,36000.0,4,0,0,0,0,0,0,0
 Senior Data Scientist,-1,"Senior Data Scientist - Onsite - Dubai, UAE - Up to USD 200,000 per annum - 0% tax environment - Visa sponsorship & Relocation assistance will be provided
 DataBuzz are recruiting a Senior Data Scientist on behalf of a prestigious organisation.
 As a Senior Data Scientist, you will be expected to lead development and implementation of advanced analytics solutions to support the power and gas trading operations and develop systematic trading strategies across all of markets
 As a Senior Data Scientist, you will be expected to work with traders and other stakeholders to identify key business challenges and opportunities to develop innovative solutions that improve decision-making and drive business performance.
-As a Senior Data Scientist, you will be expected to lead the development of data strategy and road map for the trading team, including defining data requirements, sourcing and integration, and governance.",-1,Databuzz Ltd,Dubai,23d,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,ds,"Up to USD 200,000",0,1,"Up to USD 200,000",usd,200000.0,200000.0,200000.0,-1,0,0,0,0,0,0,0,2
+As a Senior Data Scientist, you will be expected to lead the development of data strategy and road map for the trading team, including defining data requirements, sourcing and integration, and governance.",-1,Databuzz Ltd,Dubai,23d,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,ds,"Up to USD 200,000",0,1,"Up to USD 200,000",usd,200000.0,200000.0,200000.0,-1,0,0,0,0,0,0,0
 LEAD DATA SCIENTIST,-1,"Employment type: Full-time & Permanent
 Reports to: CEO
 Location: Dubai, UAE (We provide visa sponsorship & relocation assistance)
 Annual Base Salary range of 100,000 USD – 200,000 USD + performance-based bonus' - 0% tax environment + an opportunity to join our employee share scheme
 About Cobblestone Energy
 Cobblestone Energy is an energy trading company specialising in the Great Britain and European wholesale electricity markets. Founded in 2017, we are part of the next generation of companies defining the future of global commodity trading.",3.8,"Cobblestone Energy Ltd
-3.8",Dubai,13d,51 to 200 Employees,2017,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),-1,2023-02-06,ds,"100,000 USD – 200,000 USD",0,1,"100,000 USD – 200,000 USD",usd,100000.0,200000.0,150000.0,6,0,0,0,0,0,0,0,2
+3.8",Dubai,13d,51 to 200 Employees,2017,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),-1,2023-02-06,ds,"100,000 USD – 200,000 USD",0,1,"100,000 USD – 200,000 USD",usd,100000.0,200000.0,150000.0,6,0,0,0,0,0,0,0
 "LEAD DATA SCIENTIST - Dubai, UAE",-1,"Employment type: Full-time & Permanent
 Reports to: CEO
 Location: Dubai, UAE (We provide visa sponsorship & relocation assistance)
 Annual Base Salary range of 150,000 USD – 200,000 USD + performance-based bonus' - 0% tax environment + an opportunity to join our employee share scheme
 About Cobblestone Energy
 Cobblestone Energy is an energy trading company specialising in the Great Britain and European wholesale electricity markets. Founded in 2017, we are part of the next generation of companies defining the future of global commodity trading.",5.0,"Cobblestone
-5.0",Dubai,30d+,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,ds,"150,000 USD – 200,000 USD",0,1,"150,000 USD – 200,000 USD",usd,150000.0,200000.0,175000.0,-1,0,0,0,0,0,0,0,2
+5.0",Dubai,30d+,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,ds,"150,000 USD – 200,000 USD",0,1,"150,000 USD – 200,000 USD",usd,150000.0,200000.0,175000.0,-1,0,0,0,0,0,0,0
 Data Analytics Expert,AED 50K (Employer est.),"Proven working experience in data science and analytics who has overseen successful implementation across enterprise/government-wide.
 Strong understanding of machine learning and operational research tools
 Strong public sector expertise to understand user requirements and use cases and knowledge of data management including leading and emerging technologies
 Expectional influencing and collaboration skills across senior and influential stakeholders.
 Lead a team of 20 data scientists to develop consilidated analytical platforms to aid in the decision, policy design and operational research.
-Job Type: Full-time",-1,Executive Source HR Consultancy,Abu Dhabi,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 50K ,aed,50000.0,50000.0,50000.0,-1,0,0,0,0,0,0,1,2
+Job Type: Full-time",-1,Executive Source HR Consultancy,Abu Dhabi,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 50K ,aed,50000.0,50000.0,50000.0,-1,0,0,0,0,0,0,1
 Sr. Machine learning engineer.,AED 10K - AED 30K (Employer est.),"Who we are?
 Dezzex uses Artificial Intelligence and Machine Learning technologies to advance the motor insurance industry by creating a system to automate claims. We use these technologies to improve insurance processes, reduce operational costs and enable a seamless customer experience. Our solution offering is also designed for the insurance companies, Insurance companies, Smart cities application.
 For applying as a Sr. Machine Learning Engineer, the person should have overall 7-8 years of experience out of which 4-5 years of experience should be in Machine & Deep Machine learning. Especially using Convolution Neural Network (CNN), Image Analytics TensorFlow, Open CV etc.
-For applying as just a data scientist (Junior), the person needs to have experience of 3 - 9 years.",-1,Dezzex,Dubai,30d+,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,ml,-1,0,0,AED 10K - AED 30K ,aed,10000.0,30000.0,20000.0,-1,0,0,0,0,0,1,1,0
+For applying as just a data scientist (Junior), the person needs to have experience of 3 - 9 years.",-1,Dezzex,Dubai,30d+,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,ml,-1,0,0,AED 10K - AED 30K ,aed,10000.0,30000.0,20000.0,-1,0,0,0,0,0,1,1
 Business Intelligence Expert,AED 25K (Employer est.),"Translate business needs to technical specifications
 Design, build and deploy BI solutions (e.g., reporting tools)
 Maintain and support data analytics platforms (e.g., MicroStrategy)
@@ -64,7 +64,7 @@ Evaluate and improve existing BI systems
 Collaborate with teams to integrate systems
 Develop and execute database queries and conduct analyses
 Create visualizations and reports for requested projects",3.1,"Reach Employment Services
-3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,other,-1,0,0,AED 25K ,aed,25000.0,25000.0,25000.0,-1,0,0,0,0,0,0,0,2
+3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,other,-1,0,0,AED 25K ,aed,25000.0,25000.0,25000.0,-1,0,0,0,0,0,0,0
 Data Scientist,-1,"The Role
 Position Title: Data Scientist Employment Type: Full Time Salary: up to 30K AED all-inclusive, depending on experience and qualifications Job Location: Dubai, UAE About the Client: A well-established group of companies in the Oil & Gas trading industry Job Description: • Assist in the design and development of next generation AI-enabled software products for oil & commodities trading • Extract, clean, audit and prepare data for analysis • Build predictive models and machine learning algorithms continually look to improve trading processes within the team and region • Analyze and judge the quality of data produced and proactively develop and implement solutions to data quality issues • Translate business objectives into actionable analyses and insight • Assist in experiments to answer targeted questions and conduct exploratory data analysis
 
@@ -73,18 +73,18 @@ Qualifications: • 25 to 45 years old • Bachelor’s Degree or Master’s Deg
 
 About the company
 RTC-1 Employment Services is a licensed recruitment firm based in Dubai, UAE. Our team has been in the market since 2004 and we are supporting various industries with their staffing needs across the Middle East and Africa.",3.6,"RTC-1 Employment Services
-3.6",Dubai,30d+,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,ds,up to 30K AED,0,0,up to 30K AED,aed,30000.0,30000.0,30000.0,-1,1,0,0,0,0,0,1,0
+3.6",Dubai,30d+,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,ds,up to 30K AED,0,0,up to 30K AED,aed,30000.0,30000.0,30000.0,-1,1,0,0,0,0,0,1
 Data Insight Analyst,AED 4K - AED 6K (Employer est.),"Job description
 We are looking for someone in performance and media who wants to look to expand their data and insights approach into broader business areas in a start-up environment. A talented Data Insight Manager who is passionate about data, with a keen interest in drawing insights and meaningful understandings of performance from data.
 You will support the organisation's ambitious growth plans and help to drive business strategy with the use of data. You will be providing analytical support and insights and will have full control over all data going out of the relevant department. You will need to have an innovative mind as we are looking for someone to revolutionize the way our company uses its data and you will be responsible for implementing new ideas.
-If you are creative, energetic, and motivated, then we would love to hear from you!",-1,Kazix Project Management Services,Dubai,3d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 4K - AED 6K ,aed,4000.0,6000.0,5000.0,-1,0,0,0,0,0,0,0,0
+If you are creative, energetic, and motivated, then we would love to hear from you!",-1,Kazix Project Management Services,Dubai,3d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 4K - AED 6K ,aed,4000.0,6000.0,5000.0,-1,0,0,0,0,0,0,0
 Data Analyst,AED 5K - AED 6K (Employer est.),"Roles & Responsibilities
 Preparing reports that include detailed analyses of data to support management decisions
 Collecting and analyzing data to identify potential risks or opportunities for investment within an organization’s portfolio
 Reviewing accounting procedures to ensure that they are accurate and efficient
 Analyzing financial data to identify financial trends and risks that may impact an organization’s ability to meet its goals
 Providing information to senior management regarding the financial status of an organization
-Maintaining databases of financial information to track performance over time",-1,Metworld DMCC,Dubai,4d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 5K - AED 6K ,aed,5000.0,6000.0,5500.0,-1,0,0,0,0,0,0,0,0
+Maintaining databases of financial information to track performance over time",-1,Metworld DMCC,Dubai,4d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 5K - AED 6K ,aed,5000.0,6000.0,5500.0,-1,0,0,0,0,0,0,0
 Data Analyst,AED 2K - AED 2K (Employer est.),"Education : Bachelor
 Experience : Expert in Excel
 JOB Discription:
@@ -93,23 +93,23 @@ Reporting errors or developments regarding document storage.
 Updating and maintaining document management systems and physical records.
 · Preparing & generating daily reports as advised by the management.
 Job Type: Full-time",3.5,"Xad Technologies LLC
-3.5",Abu Dhabi,30d+,201 to 500 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,2023-02-06,da,-1,0,0,AED 2K - AED 2K ,aed,2000.0,2000.0,2000.0,-1,0,0,0,0,0,0,0,0
+3.5",Abu Dhabi,30d+,201 to 500 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,2023-02-06,da,-1,0,0,AED 2K - AED 2K ,aed,2000.0,2000.0,2000.0,-1,0,0,0,0,0,0,0
 marketing Data Analyst,AED 4K - AED 5K (Employer est.),"Collect data on competitors' marketing tactics, sales prices and product/service distribution. Gather and analyze data related to market conditions and consumer demographics. Research customers' opinions, buying habits, preferences, wants and needs.
 Job Type: Full-time
 Salary: AED3,500.00 - AED5,000.00 per month
 Ability to commute/relocate:
-Dubai: Reliably commute or planning to relocate before starting work (Required)",-1,Aldaem information technology,Dubai,3d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,"AED3,500.00 - AED5,000.00",0,0,"AED3,500.00 - AED5,000.00",aed,3500.0,5000.0,4250.0,-1,0,0,0,0,0,0,0,0
+Dubai: Reliably commute or planning to relocate before starting work (Required)",-1,Aldaem information technology,Dubai,3d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,"AED3,500.00 - AED5,000.00",0,0,"AED3,500.00 - AED5,000.00",aed,3500.0,5000.0,4250.0,-1,0,0,0,0,0,0,0
 School Data Analyst,AED 4K - AED 6K (Employer est.),"Manage and maintain the smooth operation of the school information system (iSAMS) while providing data support for our schools. In this role, you will be responsible for collating, analyzing, and verifying data from multiple sources and develop excel reports for management to support learning. You will also be required to support staff on data related matters and maintain various school applications and resources.
 Requirements:
 1. Bachelor's or master’s degree in information management, data analytics, computer science, or a similar field.
 2. 3+ years' school experience as a school data specialist/analyst.
-3. Experience in School Management applications iSAMS, Managebac, Seesaw, Learning ladders, Toddle etc.",-1,Raffles International School,Dubai,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 4K - AED 6K ,aed,4000.0,6000.0,5000.0,-1,0,0,0,0,0,0,0,0
+3. Experience in School Management applications iSAMS, Managebac, Seesaw, Learning ladders, Toddle etc.",-1,Raffles International School,Dubai,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 4K - AED 6K ,aed,4000.0,6000.0,5000.0,-1,0,0,0,0,0,0,0
 "JUNIOR ANALYST - Dubai, UAE",-1,"Employment type: Full-time & Permanent
 Starting salary of USD 60,000 per annum - 0% tax environment
 Job Location: Dubai, UAE (We provide visa sponsorship & relocation assistance)
 About Cobblestone Energy
 Cobblestone Energy is an energy trading company specialising in the Great Britain and European wholesale electricity markets. Founded in 2017, we are part of the next generation of companies defining the future of global commodity trading.
-We make use of advanced data analytics and extensive research to drive profitable decision making, trading enough electricity every day to power a small country, and growing every day. In doing so, we help to balance the electricity grid, lowering the cost to end consumers, and aiding the transition to a renewable future. Technology and risk management form the backbone of our business.",-1,"Cobblestone Energy, Dubai - UAE.",Sharjah,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,"USD 60,000 per annum - 0% tax",0,1,"USD 60,000 per annum - 0% tax",usd,60000.0,60000.0,60000.0,-1,0,0,0,0,0,0,0,1
+We make use of advanced data analytics and extensive research to drive profitable decision making, trading enough electricity every day to power a small country, and growing every day. In doing so, we help to balance the electricity grid, lowering the cost to end consumers, and aiding the transition to a renewable future. Technology and risk management form the backbone of our business.",-1,"Cobblestone Energy, Dubai - UAE.",Sharjah,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,"USD 60,000 per annum - 0% tax",0,1,"USD 60,000 per annum - 0% tax",usd,60000.0,60000.0,60000.0,-1,0,0,0,0,0,0,0
 Financial Analyst for Business Set- Up,AED 8K - AED 13K (Employer est.),"Job responsibilities:
 Collecting, interpreting, and reviewing financial information.
 Predicting future financial trends.
@@ -117,11 +117,11 @@ Reporting to management and stakeholders, and providing advice how the company a
 Producing financial reports related to budgets, account payables, account receivables, expenses etc.
 Developing long-term business plans based on these reports.
 Reviewing, monitoring, and managing budgets.
-Developing strategies that work to minimize financial risk.",-1,A&A Associates,Abu Dhabi,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 8K - AED 13K ,aed,8000.0,13000.0,10500.0,-1,0,0,0,0,0,0,0,0
+Developing strategies that work to minimize financial risk.",-1,A&A Associates,Abu Dhabi,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 8K - AED 13K ,aed,8000.0,13000.0,10500.0,-1,0,0,0,0,0,0,0
 Data Analyst,AED 4K - AED 5K (Employer est.),"We are looking for a strong Data Analyst to help us build and efficiently scale a distributed system from the ground up. You will join a small but growing team that provides data, frameworks, and insights to the company at large. You will be bringing analytics into the business-as-usual way of doing things and for designing, planning and delivering analytics use cases on time.
 Currently, the Analytics unit continues to be in a start-up mode and is expected to grow very quickly. As such, team members are given the latitude to shape the trajectory of the unit and bring their ideas and visions into fruition.
 Role Details – Key Responsibilities and Accountabilities:
-Pull and model data from our data lake and Google Analytics to create quantitative models of business trends and measure impact of online sales growth initiatives",-1,Pure Magic Exhibition & Conference Organizing,Dubai,13d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 4K - AED 5K ,aed,4000.0,5000.0,4500.0,-1,0,0,0,0,0,0,0,0
+Pull and model data from our data lake and Google Analytics to create quantitative models of business trends and measure impact of online sales growth initiatives",-1,Pure Magic Exhibition & Conference Organizing,Dubai,13d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 4K - AED 5K ,aed,4000.0,5000.0,4500.0,-1,0,0,0,0,0,0,0
 Data Analyst (Economic Data Analysis),AED 18K (Employer est.),"Economics education – min undergraduate qualification in Economics
 Data Analysis - evidence of econometrics analysis and/or modelling (including macroeconomic indicators, GDP analysis), trend analysis
 Excel (advanced)
@@ -130,7 +130,7 @@ Python (desirable)
 Job Type: Full-time
 Salary: Up to AED18,000.00 per month
 Ability to commute/relocate:",3.1,"Reach Employment Services
-3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,da,"Up to AED18,000.00 per month",0,0,"Up to AED18,000.00 per month",aed,18000.0,18000.0,18000.0,-1,1,0,0,0,0,0,0,0
+3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,da,"Up to AED18,000.00 per month",0,0,"Up to AED18,000.00 per month",aed,18000.0,18000.0,18000.0,-1,1,0,0,0,0,0,0
 Data Analyst,AED 18K (Employer est.),"Experience required 3+ years minimum
 Experience working in a business analysis, data analysis, reporting or business strategy role
 Excellent problem-solving skills including the ability to analyze and resolve complex problems using data
@@ -139,7 +139,7 @@ Strong knowledge in database management
 Knowledge in consuming APIs
 Advanced command in Google Tag Manager
 Strong knowledge in Google Analytics Universal and Google Analytics 4",3.1,"Reach Employment Services
-3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,da,-1,0,0,AED 18K ,aed,18000.0,18000.0,18000.0,-1,0,0,0,0,0,0,0,0
+3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,da,-1,0,0,AED 18K ,aed,18000.0,18000.0,18000.0,-1,0,0,0,0,0,0,0
 Analyst,AED 5K (Employer est.),"Job Responsibilities:
 1. Market Research and suggestions on market trends
 2. Analysis of internal and external data, Prepare MIS reports, Analytics and
@@ -147,19 +147,19 @@ Prepare actionably.
 3. Scenario analysis and work on Business Plan.
 Required Skill Set
 1. Excellent Communication skills
-2. Good Organizational and time management skills",-1,BIG WAVE INFOTECH,Dubai,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 5K ,aed,5000.0,5000.0,5000.0,-1,0,0,0,0,0,0,0,0
+2. Good Organizational and time management skills",-1,BIG WAVE INFOTECH,Dubai,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 5K ,aed,5000.0,5000.0,5000.0,-1,0,0,0,0,0,0,0
 Financial Analyst,AED 7K - AED 10K (Employer est.),"Analyst job profile
 The analyst gathers, interprets, and uses complex data to develop actionable steps to improve performance and optimize results.
 Analysts gather information and statistics, analyze trends, and then use charts and graphs to present the results.
 Analyst job description
 We are looking for an experienced Analyst to join our team, someone who will provide support for various business functions within Hospitality, including data management, reporting and analytics, data analysis, data modeling, data profiling, and data visualization.",5.0,"Stallion HR Solutions
-5.0",Dubai,1 day ago,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,da,-1,0,0,AED 7K - AED 10K ,aed,7000.0,10000.0,8500.0,-1,0,0,0,0,0,0,0,0
+5.0",Dubai,1 day ago,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,da,-1,0,0,AED 7K - AED 10K ,aed,7000.0,10000.0,8500.0,-1,0,0,0,0,0,0,0
 QC Analyst,AED 8K - AED 12K (Employer est.),"We are looking for QC Analys for our Dubai Head office, as per the following
 Well versed with Statistical Quality Control tools such as Control Charts and other applicable techniques to control processes.
 Record all necessary data to properly monitor process behaviour
 Discover issues in internal systems and identify root-causes
 Collaborate with relevant functions or departments within PMI to propose efficient Corrective and Preventive actions
-Monitor and evaluate the adequacy of the proposed and implemented Preventive Actions and highlight / propose more improvements whenever needed",-1,ECC Group,Dubai,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 8K - AED 12K ,aed,8000.0,12000.0,10000.0,-1,0,0,0,0,0,0,0,0
+Monitor and evaluate the adequacy of the proposed and implemented Preventive Actions and highlight / propose more improvements whenever needed",-1,ECC Group,Dubai,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 8K - AED 12K ,aed,8000.0,12000.0,10000.0,-1,0,0,0,0,0,0,0
 Research Analyst for Due Diligence and Investigations,-1,"Pacific Strategies & Assessments – Dubai, United Arab Emirates
 Full Time
 
@@ -196,7 +196,7 @@ Monthly Salary of AED 13,000 + Insurance and other relevant benefits.
 Submit Application
 Interested applicants will send one-page resume and no more than one-page cover
 recruitmentdubai@psagroup.com",3.5,"Pacific Strategies & Assessments (PSA)
-3.5",Dubai,30d+,51 to 200 Employees,-1,Unknown,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,da,"AED 13,000",0,0,"AED 13,000",aed,13000.0,13000.0,13000.0,-1,0,0,0,0,0,0,0,0
+3.5",Dubai,30d+,51 to 200 Employees,-1,Unknown,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,da,"AED 13,000",0,0,"AED 13,000",aed,13000.0,13000.0,13000.0,-1,0,0,0,0,0,0,0
 Junior Analyst - Dubai,-1,"Junior Analyst Roles
 Package: 25,000 – 30,000 AED
 Duration: Permanent
@@ -205,12 +205,12 @@ Responsibilities:
 
 Understanding products, channels, systems, data and process workflows of financial institutions.
 Presentations preparation with analytics work.",4.6,"Tiger Recruitment Ltd
-4.6",Dubai,21d,1 to 50 Employees,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,da,"25,000 – 30,000",0,0,"25,000 – 30,000",aed,25000.0,30000.0,27500.0,-1,0,0,0,0,0,0,0,1
+4.6",Dubai,21d,1 to 50 Employees,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,da,"25,000 – 30,000",0,0,"25,000 – 30,000",aed,25000.0,30000.0,27500.0,-1,0,0,0,0,0,0,0
 product research analyst,AED 4K - AED 5K (Employer est.),"Product analysts perform market research and analyze market data, identifying consumer behaviors and trends. They make recommendations and provide launch strategies based on their analyses to increase firm profitability. Product analysts monitor product performance and recommend alterations to meet sales forecasts.
 Job Type: Full-time
 Salary: AED3,500.00 - AED5,000.00 per month
 Ability to commute/relocate:
-Dubai: Reliably commute or planning to relocate before starting work (Required)",-1,Aldaem information technology,Dubai,3d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,"AED3,500.00 - AED5,000.00",0,0,"AED3,500.00 - AED5,000.00",aed,3500.0,5000.0,4250.0,-1,0,0,0,0,0,0,0,0
+Dubai: Reliably commute or planning to relocate before starting work (Required)",-1,Aldaem information technology,Dubai,3d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,"AED3,500.00 - AED5,000.00",0,0,"AED3,500.00 - AED5,000.00",aed,3500.0,5000.0,4250.0,-1,0,0,0,0,0,0,0
 Data Analyst,-1,"<BACK TO JOBS
 
 Job Code: 147/001/763
@@ -224,7 +224,7 @@ Industry: Contracting
 Job Brief:
 
 Our client is seeking a highly skilled and experienced individual to join their team as a Microsoft Excel and Power BI specialist. In this role, you will be responsible for creating custom code to generate reports from Excel sheets containing bill of cost and quantity data for construction projects.",4.8,"Agile Consultants
-4.8",Dubai,30d+,1 to 50 Employees,2017,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,Unknown / Non-Applicable,-1,2023-02-06,da,"AED 10,000 – 15,000",0,0,"AED 10,000 – 15,000",aed,10000.0,15000.0,12500.0,6,0,0,0,0,0,0,0,0
+4.8",Dubai,30d+,1 to 50 Employees,2017,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,Unknown / Non-Applicable,-1,2023-02-06,da,"AED 10,000 – 15,000",0,0,"AED 10,000 – 15,000",aed,10000.0,15000.0,12500.0,6,0,0,0,0,0,0,0
 Investment Advisor,AED 5K - AED 6K (Employer est.),"Investment Advisor
 Company Name:Client First Management Consultancy
 Responsibilities:
@@ -233,7 +233,7 @@ Maintain and deepen relations with existing client
 Educate clients regarding the range of applicable investment options available to them
 Determine the risk tolerance of clients
 Develop personally tailored investment solutions for clients
-Follow through on the investment actions approved by clients",-1,Client First Management Consultancy,Dubai,11d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,other,-1,0,0,AED 5K - AED 6K ,aed,5000.0,6000.0,5500.0,-1,0,0,0,0,0,0,0,0
+Follow through on the investment actions approved by clients",-1,Client First Management Consultancy,Dubai,11d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,other,-1,0,0,AED 5K - AED 6K ,aed,5000.0,6000.0,5500.0,-1,0,0,0,0,0,0,0
 Business Analyst - Smart City,AED 15K (Employer est.),"Language: English & Arabic (Must)
 Gather business requirements
 Conduct market research and identify industry trends and best practices
@@ -242,7 +242,7 @@ Job Type: Full-time
 Salary: From AED15,000.00 per month
 Ability to commute/relocate:
 Abu Dhabi: Reliably commute or planning to relocate before starting work (Required)",3.1,"Reach Employment Services
-3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,da,"AED15,000.00 per month",0,0,"AED15,000.00 per month",aed,15000.0,15000.0,15000.0,-1,0,0,0,0,0,0,0,0
+3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,da,"AED15,000.00 per month",0,0,"AED15,000.00 per month",aed,15000.0,15000.0,15000.0,-1,0,0,0,0,0,0,0
 E-commerce business analyst,AED 5K - AED 6K (Employer est.),"· Determining the company's e-commerce goals.
 · Identifying key areas for improvements, such as audience, acquisition, behavior, and conversions.
 · Monitoring and analyzing e-commerce metrics and figures.
@@ -250,7 +250,7 @@ E-commerce business analyst,AED 5K - AED 6K (Employer est.),"· Determining the 
 · Researching competitors, alternative markets, and opportunities in the e-commerce space.
 · Brainstorming ideas to enhance and transform the company's e-commerce approach.
 · Developing e-commerce solutions in conjunction with marketing and IT personnel.",3.5,"GIBRALTAR TECHNOLOGIES LLC
-3.5",Dubai,30d+,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,da,-1,0,0,AED 5K - AED 6K ,aed,5000.0,6000.0,5500.0,-1,0,0,0,0,0,0,0,0
+3.5",Dubai,30d+,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,da,-1,0,0,AED 5K - AED 6K ,aed,5000.0,6000.0,5500.0,-1,0,0,0,0,0,0,0
 Artificial Intelligence / Machine Learning Expert,AED 10K (Employer est.),"Have an end-to-end hands-on ownership of ML features and various projects.
 Develop algorithms in key areas in Machine Learning.
 Lead the path of value-driven AI features that are innovative and deployable to real customers.
@@ -259,7 +259,7 @@ Have stellar communication skills, effectively expressing yourself. You convey a
 2+ years' experience with Software Engineering.
 2+ years' experience in AI and ML algorithm development.
 Experience with one Cloud provider such as GCP, AWS, Azure, etc",3.1,"Reach Employment Services
-3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,ml,-1,0,0,AED 10K ,aed,10000.0,10000.0,10000.0,-1,0,0,0,1,0,0,1,2
+3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,ml,-1,0,0,AED 10K ,aed,10000.0,10000.0,10000.0,-1,0,0,0,1,0,0,1
 Data Collection - Image,AED 44.00 Per Hour(Employer est.),"Job Description - Images Collection Project
 Middle East market
 Wow AI is looking for native freelancers from the Middle East to work on our Images collection Project.
@@ -267,7 +267,7 @@ It is a remote and freelance job that you can work from anywhere you want.
 Flexible working hours
 Competitive rate.
 About Wow AI
-Wow AI is a trusted partner that provides high-quality data solutions for AI training on a large scale. About the Project *To collect 10 pictures of each user, including:",-1,WOW AI LLC,Dubai,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,other,-1,1,0,AED 44.00 Per Hour,aed,44.0,44.0,44.0,-1,0,0,0,0,0,0,0,0
+Wow AI is a trusted partner that provides high-quality data solutions for AI training on a large scale. About the Project *To collect 10 pictures of each user, including:",-1,WOW AI LLC,Dubai,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,other,-1,1,0,AED 44.00 Per Hour,aed,44.0,44.0,44.0,-1,0,0,0,0,0,0,0
 Data Specialist,AED 20K (Employer est.),"Specialist
 9 years of IT Experience and minimum of 4+ years’ work experience in Data science, machine learning and data analysis.
 Strong experience in core infrastructure sectors such as Oil & Gas, Power, Transportation, Manufacturing is advantageous
@@ -275,9 +275,9 @@ Data modelling skills: Power BI mandatory, Power Apps, Dataiku and SQL are advan
 Deep intellectual curiosity and passion for data
 Proven project management skills
 Excellent problem solving, communication, and analytical skills",3.1,"Reach Employment Services
-3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,other,-1,0,0,AED 20K ,aed,20000.0,20000.0,20000.0,-1,0,0,0,0,0,0,1,0
+3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,other,-1,0,0,AED 20K ,aed,20000.0,20000.0,20000.0,-1,0,0,0,0,0,0,1
 Faculty - Cyber Law & Cyber Security,AED 150.00 Per Hour(Employer est.),"About Exeed College
 Exeed College, envisioned in 2016, is a prestigious enterprise of Westford Education Group providing top-rated online/part-time academic programs. A world-class education management provider based in the UAE, Exeed College facilitates Doctorate programs in business administration and education, specialized MBA programs, master’s programs in education, and various teacher qualification programs through its extensive presence in the GCC, African, Asian, Southeast and European countries.
 Job description
 Arguing Legal Counsel & adviser for Cyber Law & Cyber Security, Privacy Law
-Cyber Crime Lawyer",-1,Exeed College,Sharjah,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,other,-1,1,0,AED 150.00 Per Hour,aed,150.0,150.0,150.0,-1,0,0,0,0,0,0,0,0
+Cyber Crime Lawyer",-1,Exeed College,Sharjah,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,other,-1,1,0,AED 150.00 Per Hour,aed,150.0,150.0,150.0,-1,0,0,0,0,0,0,0
