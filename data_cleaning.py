@@ -91,7 +91,6 @@ words = re.findall(r'\w+', result_text)
 two_words = [' '.join(ws) for ws in zip(words, words[1:])]
 wordscount = {w:f for w, f in Counter(two_words).most_common() if f > 1}
 
-
 # # rearrange the columns
 # jobs_with_salary_df = jobs_with_salary_df[['job_title',
 #  'salary_estimate',
@@ -127,4 +126,5 @@ wordscount = {w:f for w, f in Counter(two_words).most_common() if f > 1}
 #  'ml_yn',
 #  'experience_level'
 # ]]
+
 jobs_with_salary_df.to_csv('glassdoor_jobs.csv', index=False)
