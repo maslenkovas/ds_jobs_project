@@ -90,5 +90,41 @@ freq = Counter(result_text.split()).most_common(60)
 words = re.findall(r'\w+', result_text)
 two_words = [' '.join(ws) for ws in zip(words, words[1:])]
 wordscount = {w:f for w, f in Counter(two_words).most_common() if f > 1}
-    
+
+# # rearrange the columns
+# jobs_with_salary_df = jobs_with_salary_df[['job_title',
+#  'salary_estimate',
+#  'job_description',
+#  'rating',
+#  'company_name',
+#  'location',
+#  'job_age',
+#  'size',
+#  'founded',
+#  'type_of_ownership',
+#  'industry',
+#  'sector',
+#  'revenue',
+#  'competitors',
+#  'date_scrapped',
+#  'job_fam',
+#  'salary_description',
+#  'hourly',
+#  'annually',
+#  'salary',
+#  'currency',
+#  'min_salary',
+#  'max_salary',
+#  'avg_salary',
+#  'company_age',
+#  'python_yn',
+#  'r_yn',
+#  'spark_yn',
+#  'aws_yn',
+#  'pytorch_yn',
+#  'tf_yn',
+#  'ml_yn',
+#  'experience_level'
+# ]]
+
 jobs_with_salary_df.to_csv('glassdoor_jobs.csv', index=False)
