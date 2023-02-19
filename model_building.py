@@ -87,16 +87,42 @@ tpred_lm = lm.predict(X_test)
 tpred_lml = lm_l.predict(X_test)
 tpred_rf = gs.best_estimator_.predict(X_test)
 
-print('LR: ', mean_absolute_error(y_test, tpred_lm))
-print('Lasso: ', mean_absolute_error(y_test, tpred_lml))
-print('RF: ', mean_absolute_error(y_test, tpred_rf))
+lm_mae = np.round(mean_absolute_error(y_test, tpred_lm), 2)
+lms_mae = np.round(mean_absolute_error(y_test, tpred_lml), 2)
+rf_mae = np.round(mean_absolute_error(y_test, tpred_rf), 2)
+print('LR: ', lm_mae)
+print('Lasso: ', lms_mae)
+print('RF: ', rf_mae)
 
 # test an ensemple of rf and lasso regression
 print(mean_absolute_error(y_test, (tpred_lml+tpred_rf)/2))
 
+plt.figure(figsize=(10,10))
+plt.scatter(y_test, tpred_rf, c='crimson', s=50)
+p1 = max(max(tpred_rf), max(y_test))
+p2 = min(min(tpred_rf), min(y_test))
+plt.plot([p1, p2], [p1, p2], 'b-')
+plt.xlabel('True Values', fontsize=15)
+plt.ylabel('Predictions', fontsize=15)
+plt.axis('equal')
+plt.title('Random Forest', fontdict={'size':25})
+# Adding text on the plot.
+plt.text(5000, 22000, 'MAE: {}'.format(rf_mae), style='italic', bbox={
+        'facecolor': 'green', 'alpha': 0.5, 'pad': 10}, fontsize=20)
+plt.show()
 
-
-
+plt.figure(figsize=(10,10))
+plt.scatter(y_test, tpred_rf, c='crimson', s=50)
+p1 = max(max(tpred_lml), max(y_test))
+p2 = min(min(tpred_lml), min(y_test))
+plt.plot([p1, p2], [p1, p2], 'b-')
+plt.xlabel('True Values', fontsize=15)
+plt.ylabel('Predictions', fontsize=15)
+plt.axis('equal')
+plt.title('Lasso regression', fontdict={'size':25})
+plt.text(4000, 38000, 'MAE: {}'.format(lms_mae), style='italic', bbox={
+        'facecolor': 'green', 'alpha': 0.5, 'pad': 10}, fontsize=20)
+plt.show()
 
 
 
