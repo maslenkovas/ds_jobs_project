@@ -3,6 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 import pandas as pd
+import re
 
 #author: Kenarapfaik
 #url: https://github.com/arapfaik/scraping-glassdoor-selenium
@@ -20,10 +21,22 @@ def get_jobs(keyword_job, keyword_location, num_jobs, verbose, path, slp_time):
     driver = webdriver.Chrome(executable_path=path, options=options)
     driver.set_window_size(1120, 1000)
 
-    # url = "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"&locT=&locId=&jobType="
-    # url = 'https://www.glassdoor.com/Job/united-arab-emirates-data-scientist-jobs-SRCH_IL.0,20_IN6_KO21,35.htm'
-    url = "https://www.glassdoor.com/Search/results.htm?keyword=" + \
-        keyword_job + "&locId=6&locT=N&locName=" + keyword_location
+    if keyword_location=='Bahrain':
+        loc_id = '21'
+    if keyword_location=='Qatar':
+        loc_id = '199'
+    if keyword_location=='Kuwait':
+        loc_id = '137'
+    if keyword_location=='Oman':
+        loc_id = '167'
+    if keyword_location=='Saudi Arabia':
+        loc_id = '207'
+    if keyword_location=='United Arab Emirates':
+        loc_id = '6'
+
+    url = "https://www.glassdoor.com/Search/results.htm?keyword=" + keyword_job + "&locId="+ loc_id +"&locT=N&locName=" + keyword_location
+
+
     print(url)
     driver.get(url)
     jobs = []
@@ -31,12 +44,15 @@ def get_jobs(keyword_job, keyword_location, num_jobs, verbose, path, slp_time):
     try:
         # clicking to the "See All Jobs" button.
         driver.find_element(
-            By.XPATH, '//div[@class="mt-std d-flex justify-content-center"]//strong[@class="mr-xxsm"]').click()
+            By.XPATH, '/html/body/div[2]/div/div/div[1]/div[1]/div[3]/a/strong').click()
         # print('  "See All Jobs"  worked')
     except NoSuchElementException:
         # print('  "See All Jobs" failed')
         pass
-
+    
+    num_jobs = int(re.findall(r'\d+', \
+                          driver.find_element(By.XPATH, './/h1[@data-test="jobCount-H1title"]').text)[0])
+    
     # If true, should be still looking for new jobs.
     while len(jobs) < num_jobs:
 
@@ -60,7 +76,7 @@ def get_jobs(keyword_job, keyword_location, num_jobs, verbose, path, slp_time):
             if len(jobs) >= num_jobs:
                 break
 
-            job_button.click()  # You might
+            job_button.click()
             time.sleep(1)
             collected_successfully = False
 
@@ -72,6 +88,13 @@ def get_jobs(keyword_job, keyword_location, num_jobs, verbose, path, slp_time):
                 # print(' x out failed')
                 pass
 
+            # clicking the "Show More" button
+            try:
+                driver.find_element(By.XPATH, './/div[@class="css-t3xrds e856ufb4"][text()="Show More"]').click()
+                print("'Show More' button' is clicked")
+            except NoSuchElementException:
+                pass
+
             while not collected_successfully:
                 try:
                     company_name = driver.find_element(
@@ -80,8 +103,16 @@ def get_jobs(keyword_job, keyword_location, num_jobs, verbose, path, slp_time):
                         By.XPATH, './/div[@data-test="location"]').text
                     job_title = driver.find_element(
                         By.XPATH, './/div[@data-test="jobTitle"]').text
-                    job_description = driver.find_element(
-                        By.XPATH, './/div[@class="jobDescriptionContent desc"]').text
+                    all_children = driver.find_elements(By.XPATH, './/div[@class="jobDescriptionContent desc"]//*')
+                    if len(all_children)>0:
+                        job_description_l = []
+                        for i, child in enumerate(all_children):
+                            if child.text not in job_description_l:
+                                job_description_l.append(child.text)
+                        job_description = " ".join(job_description_l)
+                    else:
+                        job_description = driver.find_element(By.XPATH, './/div[@class="jobDescriptionContent desc"]').text
+
                     collected_successfully = True
                 except:
                     time.sleep(5)
@@ -196,9 +227,14 @@ def get_jobs(keyword_job, keyword_location, num_jobs, verbose, path, slp_time):
 
         # Clicking on the "next page" button
         try:
-            driver.find_element(
-                By.XPATH, './/button[@class="nextButton css-1hq9k8 e13qs2071"]').click()
-            print('NEXT button is clicked')
+            next_button = driver.find_element(By.XPATH, './/button[@class="nextButton css-1hq9k8 e13qs2071"]')
+            if next_button.is_enabled():
+                next_button.click()
+                print('NEXT button is clicked')
+            else:
+                print("Scraping terminated before reaching target number of jobs. Needed {}, got {}.".format(
+                    num_jobs, len(jobs)))
+                break
         except NoSuchElementException:
             print("Scraping terminated before reaching target number of jobs. Needed {}, got {}.".format(
                 num_jobs, len(jobs)))

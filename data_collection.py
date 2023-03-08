@@ -2,24 +2,30 @@ import pandas as pd
 import glassdoor_scraper as gs
 import pickle5 as pickle 
 
-path = "/Users/svetlanamaslenkova/Documents/DS_project/chromedriver_mac64/chromedriver"
+driver_path = "/Users/svetlanamaslenkova/Documents/DS_project/chromedriver_mac64/chromedriver"
+save_to_path = '/Users/svetlanamaslenkova/Documents/DS_project/data_scraped/GCC_region/'
 
-# # webscraping Data Analyst Jobs
-# df = gs.get_jobs('data analyst', 'United Arab Emirates', 330, True, path, 15)
 
-# # saving the dataframe
-# with open('/Users/svetlanamaslenkova/Documents/DS_project/da_jobs_scraped.pkl', 'wb') as handle:
-#     pickle.dump(df, handle, protocol=pickle.HIGHEST_PROTOCOL)
-
-# # webscraping Data Scientist Jobs
-# df = gs.get_jobs('data analyst', 'United Arab Emirates', 55, True, path, 15)
-
-# # saving the dataframe
-# with open('/Users/svetlanamaslenkova/Documents/DS_project/ds_jobs_scraped.pkl', 'wb') as handle:
-#     pickle.dump(df, handle, protocol=pickle.HIGHEST_PROTOCOL)
-
-# # webscraping Machine Learning Jobs
-# df = gs.get_jobs('machine learning', 'United Arab Emirates', 200, True, path, 15)
-# # # saving the dataframe
-# with open('/Users/svetlanamaslenkova/Documents/DS_project/ml_jobs_scraped.pkl', 'wb') as handle:
-#     pickle.dump(df, handle, protocol=pickle.HIGHEST_PROTOCOL)
+for location in ['Bahrain', 'Kuwait', 'Oman', 'Qatar', 'Saudi Arabia', 'United Arab Emirates']:
+# for location in ['Oman', 'Saudi Arabia', 'United Arab Emirates']:
+# for location in ['Bahrain']: 
+    # webscraping Data Scientist Jobs
+    df = gs.get_jobs('data scientist', location, 500, True, driver_path, 10)
+    # saving df
+    file_name = location.lower() + '_ds_jobs_scraped.pkl'
+    with open(save_to_path + file_name, 'wb') as handle:
+        pickle.dump(df, handle, protocol=pickle.HIGHEST_PROTOCOL)
+        
+    # webscraping Data Analyst Jobs
+    df = gs.get_jobs('data analyst', location, 500, True, driver_path, 10)
+    # saving df
+    file_name = location.lower() + '_da_jobs_scraped.pkl'
+    with open(save_to_path + file_name, 'wb') as handle:
+        pickle.dump(df, handle, protocol=pickle.HIGHEST_PROTOCOL)
+        
+    # webscraping Machine Learning engineer Jobs
+    df = gs.get_jobs('machine learning', location, 500, True, driver_path, 10)
+    # saving df
+    file_name = location.lower() + '_ml_jobs_scraped.pkl'
+    with open(save_to_path + file_name, 'wb') as handle:
+        pickle.dump(df, handle, protocol=pickle.HIGHEST_PROTOCOL)

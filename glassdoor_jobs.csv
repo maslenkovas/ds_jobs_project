@@ -1,115 +1,225 @@
-job_title,salary_estimate,job_description,rating,company_name,location,job_age,size,founded,type_of_ownership,industry,sector,revenue,competitors,date_scrapped,job_fam,salary_description,hourly,annually,salary,currency,min_salary,max_salary,avg_salary,company_age,python_yn,r_yn,spark_yn,aws_yn,pytorch_yn,tf_yn,ml_yn
-"JUNIOR DATA SCIENTIST - Dubai, UAE",-1,"Location: Dubai, UAE (We provide visa sponsorship & relocation assistance)
-Starting salary of USD 60,000 per annum - 0% tax environment
-About Cobblestone Energy
-Cobblestone Energy is an energy trading company specialising in the Great Britain and European wholesale electricity markets. Founded in 2017, we are part of the next generation of companies defining the future of global commodity trading.
-We make use of advanced data analytics and extensive research to drive profitable decision making, trading enough electricity every day to power a small country, and growing every day. In doing so, we help to balance the electricity grid, lowering the cost to end consumers, and aiding the transition to a renewable future. Technology and risk management form the backbone of our business.",-1,"Cobblestone Energy, Dubai - UAE.",Sharjah,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,ds,"USD 60,000 per annum - 0%",0,1,"USD 60,000 per annum - 0%",usd,60000.0,60000.0,60000.0,-1,0,0,0,0,0,0,0
-"SENIOR DATA SCIENTIST - Dubai, UAE",-1,"Employment type: Full-time & Permanent
-Reports to: CEO
-Location: Dubai, UAE (We provide visa sponsorship & relocation assistance)
-Annual Base Salary range of 80,000 USD – 150,000 USD + performance-based bonus' - 0% tax environment + an opportunity to join our employee share scheme.
-About Cobblestone Energy
-Cobblestone Energy is an energy trading company specialising in the Great Britain and European wholesale electricity markets. Founded in 2017, we are part of the next generation of companies defining the future of global commodity trading.",5.0,"Cobblestone
-5.0",Dubai,10d,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,ds,"80,000 USD – 150,000 USD",0,1,"80,000 USD – 150,000 USD",usd,80000.0,150000.0,115000.0,-1,0,0,0,0,0,0,0
-Research Scientist,AED 20K - AED 25K (Employer est.),"Research Scientist Position Description
-General Details
-Position Duration 01/02/2023 to 31/12/2026
-Position Title Research Scientist or Postdoc Associate
-Project Title Quantum-inspired algorithms for computational fluid dynamics:
-the nuclear-industry use case
-Project Supervisor Dr. Mohamed Kamel RIAHI, Assistant Professor of Mathematics mohamed[dot]riahi[_at_]ku[dot]ac[_dot_]ae
-Academic
-Department Mathematics Department",3.6,"Khalifa University
-3.6",Abu Dhabi,24h,501 to 1000 Employees,2007,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,-1,2023-02-06,other,-1,0,0,AED 20K - AED 25K ,aed,20000.0,25000.0,22500.0,16,0,0,0,0,0,0,0
-Senior Data Scientist - Remote,AED 32K - AED 40K (Employer est.),"Launched in 2019, Binance.US is the fastest growing and most integrated digital asset marketplace in the United States, powered by matching engine and wallet technologies license from the world’s largest cryptocurrency exchange - Binance. Our mission is to provide liquidity, transparency, and efficiency to financial markets by creating products that leverage crypto to unlock the power of everything. We build bridges between traditional finance and digital markets that enable growth for all—empowering the future of finance. Binance.US is operated by BAM Trading Services.
-Responsibilities
-Identify potential business opportunities within your area and scope/design approaches to capture those opportunities
-Facilitate data driven decision making across the company",3.5,"Binance.us
-3.5",Dubai,30d+,501 to 1000 Employees,2019,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1,2023-02-06,ds,-1,0,0,AED 32K - AED 40K ,aed,32000.0,40000.0,36000.0,4,0,0,0,0,0,0,0
-Senior Data Scientist,-1,"Senior Data Scientist - Onsite - Dubai, UAE - Up to USD 200,000 per annum - 0% tax environment - Visa sponsorship & Relocation assistance will be provided
-DataBuzz are recruiting a Senior Data Scientist on behalf of a prestigious organisation.
-As a Senior Data Scientist, you will be expected to lead development and implementation of advanced analytics solutions to support the power and gas trading operations and develop systematic trading strategies across all of markets
-As a Senior Data Scientist, you will be expected to work with traders and other stakeholders to identify key business challenges and opportunities to develop innovative solutions that improve decision-making and drive business performance.
-As a Senior Data Scientist, you will be expected to lead the development of data strategy and road map for the trading team, including defining data requirements, sourcing and integration, and governance.",-1,Databuzz Ltd,Dubai,23d,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,ds,"Up to USD 200,000",0,1,"Up to USD 200,000",usd,200000.0,200000.0,200000.0,-1,0,0,0,0,0,0,0
-LEAD DATA SCIENTIST,-1,"Employment type: Full-time & Permanent
-Reports to: CEO
-Location: Dubai, UAE (We provide visa sponsorship & relocation assistance)
-Annual Base Salary range of 100,000 USD – 200,000 USD + performance-based bonus' - 0% tax environment + an opportunity to join our employee share scheme
-About Cobblestone Energy
-Cobblestone Energy is an energy trading company specialising in the Great Britain and European wholesale electricity markets. Founded in 2017, we are part of the next generation of companies defining the future of global commodity trading.",3.8,"Cobblestone Energy Ltd
-3.8",Dubai,13d,51 to 200 Employees,2017,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),-1,2023-02-06,ds,"100,000 USD – 200,000 USD",0,1,"100,000 USD – 200,000 USD",usd,100000.0,200000.0,150000.0,6,0,0,0,0,0,0,0
-"LEAD DATA SCIENTIST - Dubai, UAE",-1,"Employment type: Full-time & Permanent
-Reports to: CEO
-Location: Dubai, UAE (We provide visa sponsorship & relocation assistance)
-Annual Base Salary range of 150,000 USD – 200,000 USD + performance-based bonus' - 0% tax environment + an opportunity to join our employee share scheme
-About Cobblestone Energy
-Cobblestone Energy is an energy trading company specialising in the Great Britain and European wholesale electricity markets. Founded in 2017, we are part of the next generation of companies defining the future of global commodity trading.",5.0,"Cobblestone
-5.0",Dubai,30d+,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,ds,"150,000 USD – 200,000 USD",0,1,"150,000 USD – 200,000 USD",usd,150000.0,200000.0,175000.0,-1,0,0,0,0,0,0,0
-Data Analytics Expert,AED 50K (Employer est.),"Proven working experience in data science and analytics who has overseen successful implementation across enterprise/government-wide.
-Strong understanding of machine learning and operational research tools
-Strong public sector expertise to understand user requirements and use cases and knowledge of data management including leading and emerging technologies
-Expectional influencing and collaboration skills across senior and influential stakeholders.
-Lead a team of 20 data scientists to develop consilidated analytical platforms to aid in the decision, policy design and operational research.
-Job Type: Full-time",-1,Executive Source HR Consultancy,Abu Dhabi,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 50K ,aed,50000.0,50000.0,50000.0,-1,0,0,0,0,0,0,1
-Sr. Machine learning engineer.,AED 10K - AED 30K (Employer est.),"Who we are?
-Dezzex uses Artificial Intelligence and Machine Learning technologies to advance the motor insurance industry by creating a system to automate claims. We use these technologies to improve insurance processes, reduce operational costs and enable a seamless customer experience. Our solution offering is also designed for the insurance companies, Insurance companies, Smart cities application.
-For applying as a Sr. Machine Learning Engineer, the person should have overall 7-8 years of experience out of which 4-5 years of experience should be in Machine & Deep Machine learning. Especially using Convolution Neural Network (CNN), Image Analytics TensorFlow, Open CV etc.
-For applying as just a data scientist (Junior), the person needs to have experience of 3 - 9 years.",-1,Dezzex,Dubai,30d+,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,ml,-1,0,0,AED 10K - AED 30K ,aed,10000.0,30000.0,20000.0,-1,0,0,0,0,0,1,1
-Business Intelligence Expert,AED 25K (Employer est.),"Translate business needs to technical specifications
-Design, build and deploy BI solutions (e.g., reporting tools)
-Maintain and support data analytics platforms (e.g., MicroStrategy)
-Create tools to store data (e.g., OLAP cubes)
-Conduct unit testing and troubleshooting
-Evaluate and improve existing BI systems
-Collaborate with teams to integrate systems
-Develop and execute database queries and conduct analyses
-Create visualizations and reports for requested projects",3.1,"Reach Employment Services
-3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,other,-1,0,0,AED 25K ,aed,25000.0,25000.0,25000.0,-1,0,0,0,0,0,0,0
-Data Scientist,-1,"The Role
-Position Title: Data Scientist Employment Type: Full Time Salary: up to 30K AED all-inclusive, depending on experience and qualifications Job Location: Dubai, UAE About the Client: A well-established group of companies in the Oil & Gas trading industry Job Description: • Assist in the design and development of next generation AI-enabled software products for oil & commodities trading • Extract, clean, audit and prepare data for analysis • Build predictive models and machine learning algorithms continually look to improve trading processes within the team and region • Analyze and judge the quality of data produced and proactively develop and implement solutions to data quality issues • Translate business objectives into actionable analyses and insight • Assist in experiments to answer targeted questions and conduct exploratory data analysis
-
-Requirements
-Qualifications: • 25 to 45 years old • Bachelor’s Degree or Master’s Degree in Computer Science, Applied Mathematics, Machine Learning, Data Science, Applied Statistics, Natural Language Processing, or Computer Vision is required • At least 5 years of experience in the same role from Oil & Commodities trading • Industrial working experience in data science (Demonstrated relevant experience in industry or academia, self-training, and personal projects) is a real plus • Knowledgeable in Python, Docker, Git, Anaconda, and Jupyter • Immediate joiners will be prioritized How to Apply: Send your CV in word format online.
-
-About the company
-RTC-1 Employment Services is a licensed recruitment firm based in Dubai, UAE. Our team has been in the market since 2004 and we are supporting various industries with their staffing needs across the Middle East and Africa.",3.6,"RTC-1 Employment Services
-3.6",Dubai,30d+,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,ds,up to 30K AED,0,0,up to 30K AED,aed,30000.0,30000.0,30000.0,-1,1,0,0,0,0,0,1
-Data Insight Analyst,AED 4K - AED 6K (Employer est.),"Job description
-We are looking for someone in performance and media who wants to look to expand their data and insights approach into broader business areas in a start-up environment. A talented Data Insight Manager who is passionate about data, with a keen interest in drawing insights and meaningful understandings of performance from data.
-You will support the organisation's ambitious growth plans and help to drive business strategy with the use of data. You will be providing analytical support and insights and will have full control over all data going out of the relevant department. You will need to have an innovative mind as we are looking for someone to revolutionize the way our company uses its data and you will be responsible for implementing new ideas.
-If you are creative, energetic, and motivated, then we would love to hear from you!",-1,Kazix Project Management Services,Dubai,3d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 4K - AED 6K ,aed,4000.0,6000.0,5000.0,-1,0,0,0,0,0,0,0
-Data Analyst,AED 5K - AED 6K (Employer est.),"Roles & Responsibilities
-Preparing reports that include detailed analyses of data to support management decisions
-Collecting and analyzing data to identify potential risks or opportunities for investment within an organization’s portfolio
-Reviewing accounting procedures to ensure that they are accurate and efficient
-Analyzing financial data to identify financial trends and risks that may impact an organization’s ability to meet its goals
-Providing information to senior management regarding the financial status of an organization
-Maintaining databases of financial information to track performance over time",-1,Metworld DMCC,Dubai,4d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 5K - AED 6K ,aed,5000.0,6000.0,5500.0,-1,0,0,0,0,0,0,0
-Data Analyst,AED 2K - AED 2K (Employer est.),"Education : Bachelor
-Experience : Expert in Excel
-JOB Discription:
-Reporting errors or developments regarding document storage.
-· Ensuring the secure destruction and disposal of sensitive documents.
-Updating and maintaining document management systems and physical records.
-· Preparing & generating daily reports as advised by the management.
-Job Type: Full-time",3.5,"Xad Technologies LLC
-3.5",Abu Dhabi,30d+,201 to 500 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,2023-02-06,da,-1,0,0,AED 2K - AED 2K ,aed,2000.0,2000.0,2000.0,-1,0,0,0,0,0,0,0
-marketing Data Analyst,AED 4K - AED 5K (Employer est.),"Collect data on competitors' marketing tactics, sales prices and product/service distribution. Gather and analyze data related to market conditions and consumer demographics. Research customers' opinions, buying habits, preferences, wants and needs.
-Job Type: Full-time
-Salary: AED3,500.00 - AED5,000.00 per month
-Ability to commute/relocate:
-Dubai: Reliably commute or planning to relocate before starting work (Required)",-1,Aldaem information technology,Dubai,3d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,"AED3,500.00 - AED5,000.00",0,0,"AED3,500.00 - AED5,000.00",aed,3500.0,5000.0,4250.0,-1,0,0,0,0,0,0,0
-School Data Analyst,AED 4K - AED 6K (Employer est.),"Manage and maintain the smooth operation of the school information system (iSAMS) while providing data support for our schools. In this role, you will be responsible for collating, analyzing, and verifying data from multiple sources and develop excel reports for management to support learning. You will also be required to support staff on data related matters and maintain various school applications and resources.
-Requirements:
-1. Bachelor's or master’s degree in information management, data analytics, computer science, or a similar field.
-2. 3+ years' school experience as a school data specialist/analyst.
-3. Experience in School Management applications iSAMS, Managebac, Seesaw, Learning ladders, Toddle etc.",-1,Raffles International School,Dubai,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 4K - AED 6K ,aed,4000.0,6000.0,5000.0,-1,0,0,0,0,0,0,0
-"JUNIOR ANALYST - Dubai, UAE",-1,"Employment type: Full-time & Permanent
-Starting salary of USD 60,000 per annum - 0% tax environment
-Job Location: Dubai, UAE (We provide visa sponsorship & relocation assistance)
-About Cobblestone Energy
-Cobblestone Energy is an energy trading company specialising in the Great Britain and European wholesale electricity markets. Founded in 2017, we are part of the next generation of companies defining the future of global commodity trading.
-We make use of advanced data analytics and extensive research to drive profitable decision making, trading enough electricity every day to power a small country, and growing every day. In doing so, we help to balance the electricity grid, lowering the cost to end consumers, and aiding the transition to a renewable future. Technology and risk management form the backbone of our business.",-1,"Cobblestone Energy, Dubai - UAE.",Sharjah,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,"USD 60,000 per annum - 0% tax",0,1,"USD 60,000 per annum - 0% tax",usd,60000.0,60000.0,60000.0,-1,0,0,0,0,0,0,0
+job_title,salary_estimate,job_description,rating,company_name,location,job_age,size,founded,type_of_ownership,industry,sector,revenue,competitors,date_scrapped,salary_description,hourly,annually,salary,currency,min_salary,max_salary,avg_salary,older_than_30_days,job_fam,company_age,python_yn,r_yn,spark_yn,aws_yn,pytorch_yn,tf_yn,ml_yn,pbi_tableau_yn,stats_yn,sql_yn,experience_level,job_simp,country
+Business Analyst/Data Analyst,BHD 2K (Employer est.),"Total 4 - 6 years of experience.
+5+years of Knowledge in Banking and Finance, Financial accounting.
+5+ years of expertise in writing complex SQL Query, Stored Procedures and functions.
+5+ Hands on with SAS platform Tools like SAS DI / SAS Enterprise Guide / SAS Information Map / Base SAS.
+Support Data Management team in organizing data for financial/regulatory reports, data mapping and performing UAT.
+Coordination and Interaction with the finance business partner to understand data issues, ensure proper communication to data engineers and work towards the resolution.
+Contribute to data warehouse design and components, relational database management systems, and database design solution.
+Develop SQL Server T-SQL procedures/functions for batch processing as well as reports, in line with user requirements. Total 4 - 6 years of experience. 5+years of Knowledge in Banking and Finance, Financial accounting. 5+ years of expertise in writing complex SQL Query, Stored Procedures and functions. 5+ Hands on with SAS platform Tools like SAS DI / SAS Enterprise Guide / SAS Information Map / Base SAS. Support Data Management team in organizing data for financial/regulatory reports, data mapping and performing UAT. Coordination and Interaction with the finance business partner to understand data issues, ensure proper communication to data engineers and work towards the resolution. Contribute to data warehouse design and components, relational database management systems, and database design solution. Develop SQL Server T-SQL procedures/functions for batch processing as well as reports, in line with user requirements. Job Type: Full-time Salary: Up to BD1,600.000 per month Ability to commute/relocate: Manama: Reliably commute or willing to relocate with an employer-provided relocation package (Required)",-1,Unity Infotech Solutions,Manama,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,BHD 2K ,bhd,19520.0,19520.0,19520.0,1,da,-1,0,0,0,0,0,0,0,0,0,1,other,analyst,BH
+QA Analyst,BHD 400 (Employer est.),"About the role: QA Analyst is a member of the testing and quality assurance division of the Business Solutions function. The job holder is responsible for verifying that BFC’s business applications operate and are designed to perform in line with specifications and business requirements by running test cycles based on pre- prepared test cases and procedures. The QA Analyst provides detailed test results with accurate estimates and reports of test progress for evaluating new developments and changes made to existing systems. Your Responsibilities: Prepare test plans that test cases and test scripts to test each software component and demonstrate the business condition under test and the expected results.
+Provide estimates and feedback to the QA Manager for project scheduling purposes.
+Test all projects according to business requirements and complete all test-related tasks on time.
+Ensure high quality and accuracy are maintained through software releases.
+Prepare and maintain test plans for use on automated testing tools.
+Report test results and records problems and issues into the issues log.
+Monitor and update issues log reports as needed including issues report closure.
+Assist in the automation of relevant test procedures.
+Assist in the review of test processes as they are developed.
+Demonstrates the ability to analyze problems and complete detailed reports.
+Demonstrate strong analytical skills to find the root cause of system bugs and report clearly.
+Able to methodically produce the steps which exhibit bugs in the product and be able to reproduce and communicate these steps.
+Shows initiative in gaining in-depth experience technologies relevant to testing of BFC products.
+Shows initiative in gaining theoretical knowledge in software testing.
+Adapt to the changing needs of a project and meet deadlines. Prepare test plans that test cases and test scripts to test each software component and demonstrate the business condition under test and the expected results. Provide estimates and feedback to the QA Manager for project scheduling purposes. Test all projects according to business requirements and complete all test-related tasks on time. Ensure high quality and accuracy are maintained through software releases. Prepare and maintain test plans for use on automated testing tools. Report test results and records problems and issues into the issues log. Monitor and update issues log reports as needed including issues report closure. Assist in the automation of relevant test procedures. Assist in the review of test processes as they are developed. Demonstrates the ability to analyze problems and complete detailed reports. Demonstrate strong analytical skills to find the root cause of system bugs and report clearly. Able to methodically produce the steps which exhibit bugs in the product and be able to reproduce and communicate these steps. Shows initiative in gaining in-depth experience technologies relevant to testing of BFC products. Shows initiative in gaining theoretical knowledge in software testing. Adapt to the changing needs of a project and meet deadlines. About You University degree in Computer Science or similar field.
+Minimum 2 years’ experience of testing Windows/Web applications produced using VB, C#, University degree in Computer Science or similar field. Minimum 2 years’ experience of testing Windows/Web applications produced using VB, C#, Access, SQL Server. Sufficient knowledge/experience working with Microsoft Office tools and operating systems.
+Sufficient Knowledge of relational database concepts and technical data manipulation techniques including the use of SQL.
+Sufficient experience with networking and/or communications protocols.
+Sufficient experience with the Internet, Intranet, Extranet, and client/server architectures.
+Familiar with testing methodologies and the defect reporting process.
+Strong communication skills, both in writing and orally.
+Works well in a team environment and alone. Sufficient knowledge/experience working with Microsoft Office tools and operating systems. Sufficient Knowledge of relational database concepts and technical data manipulation techniques including the use of SQL. Sufficient experience with networking and/or communications protocols. Sufficient experience with the Internet, Intranet, Extranet, and client/server architectures. Familiar with testing methodologies and the defect reporting process. Strong communication skills, both in writing and orally. Works well in a team environment and alone. Job Type: Full-time Salary: BD400.000 per month",-1,Bahrain Financing Company,Manama,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,BHD 400 ,bhd,3904.0,3904.0,3904.0,1,da,-1,0,0,0,0,0,0,0,0,0,1,other,analyst,BH
+Machine Learning Engineer,BHD 1K - BHD 2K (Employer est.),"WalletHub, the #1 Personal Finance App in the US and one of Forbes Top 100 Best StartUp Employers for both 2020 and 2021, is rapidly growing and looking for a highly experienced and motivated Senior Machine Learning Engineer for a full-time, permanent position. Senior Machine Learning Engineer Qualifications At least 4 years experience in Python and MySQL (or any relational database)
+Min. 2 years of experience as a Data Scientist
+Experience with databases
+Experience in machine learning frameworks and libraries
+Machine learning concepts and techniques: Regularization, Boosting, Random Forests, Decision Trees, Bayesian models, Neural networks, Support Vector Machines (SVM)
+Experience with the whole ETL data cycle (extract, validate, transform, clean, aggregate, audit, archive)
+Computer Science or Mathematics or Physics degree
+Excellent communication and analytical skills
+Willingness to work hard (50 hrs per week)
+Very good English At least 4 years experience in Python and MySQL (or any relational database) Min. 2 years of experience as a Data Scientist Experience with databases Experience in machine learning frameworks and libraries Machine learning concepts and techniques: Regularization, Boosting, Random Forests, Decision Trees, Bayesian models, Neural networks, Support Vector Machines (SVM) Experience with the whole ETL data cycle (extract, validate, transform, clean, aggregate, audit, archive) Computer Science or Mathematics or Physics degree Excellent communication and analytical skills Willingness to work hard (50 hrs per week) Very good English Nice to have but not required Experience with Apache Spark
+Natural Language Processing (tokenization, tagging, sentiment analysis, entity recognition, summarization) Experience with Apache Spark Natural Language Processing (tokenization, tagging, sentiment analysis, entity recognition, summarization) Responsibilities Modeling complex problems, discovering insights and identifying opportunities through the use of statistical, algorithmic, mining and visualization techniques
+Participating in the areas of architecture, design, implementation, and testing
+Proposing innovative ways to look at problems by using data mining approaches on the set of information available
+Designing experiments, testing hypotheses, and building models
+Conducting advanced data analysis and designing highly complex algorithm
+Applying advanced statistical and predictive modeling techniques to build, maintain, and improve on multiple real-time decision systems Modeling complex problems, discovering insights and identifying opportunities through the use of statistical, algorithmic, mining and visualization techniques Participating in the areas of architecture, design, implementation, and testing Proposing innovative ways to look at problems by using data mining approaches on the set of information available Designing experiments, testing hypotheses, and building models Conducting advanced data analysis and designing highly complex algorithm Applying advanced statistical and predictive modeling techniques to build, maintain, and improve on multiple real-time decision systems Compensation Very competitive salary based on prior experience and qualifications
+Potential for stock options after the first year
+100% remote position
+Raise and advancement opportunities based on periodic evaluations
+Visa sponsorship (after 18 months with the company, based on performance, in case you will be working from outside the US). Very competitive salary based on prior experience and qualifications Potential for stock options after the first year 100% remote position Raise and advancement opportunities based on periodic evaluations Visa sponsorship (after 18 months with the company, based on performance, in case you will be working from outside the US). Notes Expected work schedule is 50 hours/week, Monday to Friday. This position requires a full overlap with EST business hours (8AM - 7PM ET, including 1 hr break). Although we appreciate your interest in working with us, due to the high number of applications we receive, we will only be able to reply to successful applicants. More about WalletHub WalletHub, the #1 Personal Finance App in the US and one of Forbes’ Top 100 Best StartUp Employers for both 2020 and 2021, is seeking hardworking, like-minded individuals to help us disrupt personal finance and make a tangible difference in people's everyday lives. More specifically, we are harnessing the power of data analytics and artificial intelligence to build the brain of a smart financial advisor, whose services we’re offering to everyone for free. The WalletHub brain enables users to make better financial decisions in a fraction of the time with three unique features: 1) Customized Credit-Improvement Tips: WalletHub identifies improvement opportunities and guides you through the necessary corrections. 1) Customized Credit-Improvement Tips 2) Personalized Money-Saving Advice: WalletHub’s savings brain constantly scours the market for load-lightening opportunities, bringing you only the best deals. 2) Personalized Money-Saving Advice 3) Wallet Surveillance: Personal finance isn’t as scary with 24/7 credit monitoring providing backup, notifying you of important credit-report changes. 3) Wallet Surveillance WalletHub’s initial focus was in the credit card space, and we quickly became the go-to credit card resource for consumers and industry professionals alike. Not only did the nonprofit group Consumer Action rate WalletHub as the best credit card website, but our industry research and expert opinions are featured in the national media far more often than any other company in the space. In addition to the valuable intelligence the brain provides, WalletHub is the first service to offer free credit scores and full credit reports that are updated on a daily basis absent of user interaction, rather than weekly or monthly and only when a user logs in. Some other services hang their hats on free credit scores and reports, yet they’re still inferior to what WalletHub considers minor pieces to a much larger puzzle. Job Type: Full-time Pay: BD1,243.000 - BD2,186.000 per month",4.2,WalletHub,Manama,23d,51 to 200 Employees,2012,Company - Private,Research & Development,Management & Consulting,Unknown / Non-Applicable,-1,2023-02-22,-1,0,0,BHD 1K - BHD 2K ,bhd,9760.0,19520.0,14640.0,0,ml,11,1,0,1,0,0,0,1,0,1,1,other,machine learning engineer,BH
+Data Analytics,-1,"Please Note : Candidate should be available to Join Immediate or on short notice Position :Data Analytics Industry : Telecommunication Duration : Permanent Location : Kuwait City Work Schedule : 5 Days a week & 8 hours a day Job Description Graduate and above, Fluent in English (Read, Write and speak) To analyse customer base and behaviour to find out Action Oriented new insights on customer base. Telecommunication- experienced in market Intelligence or prepaid Marketing function · Strong experience in Telco CVM, Big Data and Machine Learning experience Strong experience in Telco CVM, Big Data and Machine Learning experience · Exceptional SQL preferably in an Oracle environment Exceptional SQL preferably in an Oracle environment · Highly skilled in SQL, Query writing, reporting , Qlicksense Highly skilled in SQL, Query writing, reporting , Qlicksense Highly Skilled in excel/Spreadsheet, Access, data Base management. Must have experience in Data analytics/reporting for Marketing department in telco environment SQL, Database, Qliksense Interested Candidates can share Cv's on r.deeksha@ brunel.net Whatsapp +965 97285272 Job Type: Full-time Salary: KD100.000 - KD750.000 per month Ability to commute/relocate: Kuwait City: Reliably commute or planning to relocate before starting work (Required) Application Deadline: 22/12/2022",3.8,Brunel,Kuwait City,30d+,10000+ Employees,1975,Company - Public,Staffing & Subcontracting,Human Resources & Staffing,$1 to $5 billion (USD),-1,2023-02-22,KD100.000 - KD750.000 per month,0,0,KD100.000 - KD750.000 per month,kd,1200.0,9000.0,5100.0,1,da,48,0,0,0,0,0,0,1,0,0,1,other,other,KW
+Information System Analyst and Consultants,OMR 1K (Employer est.),"Attend Mega Canada Job fair on 20th November. Send CV & book your slot on WhatsApp +96895125614. Limited seats T&C* Are you looking for Canada PR with family, tough nobody giving you exact solution?, Canada Govt announced many program with Job offer / LMIA, we have many Canadian companies, those are willing to hire professional from UAE / Gulf Countries. So meet us & WhatsApp CV for assessment on +96895125614. A Golden chance for changing a life for you , your family & your future generation. Today you may be eligible but there is no guarantee in future you will be able to even apply for the same. We will review your profile, Kindly meet or discuss regarding job+ resettlement in Canada, many professionals required. We are fastest & biggest consultancy firm in the Oman &UAE. We are giving services for resettlement & overseas Job for Canada. Canada is looking professional people like you for fulfilling the manpower need of many companies. Also they are giving best salary in the world with family resettlement. Advantage of Canada: - Best income with employment, free education of child, free medical for whole family, old age pension & awesome standard of life. If you are interested to settle with family or alone then visit & apply it asap, Salary would be $7000 to $10000 approx. after resettling in Canada. Kindly send updated CV by WhatsApp or email for assessment or checking of your eligibility. If selected, we will revert you within 48 hours. Kindly book appointment between 10:00am-7pm Friday 20th November. Location-306, Bin Ham(City Season Hotel) Building, Next to KM Hypermarket Al-Khuwair, Muscat, Oman Thank you, Regard Can Axis Immigration Consultants Oman Information systems business analysts and consultants Confer with clients to identify and document requirements
+Conduct business and technical studies
+Design, develop, integrate, test and implement information systems business solutions
+Provide advice on information systems strategy, policy, management, security and service delivery. Confer with clients to identify and document requirements Conduct business and technical studies Design, develop, integrate, test and implement information systems business solutions Provide advice on information systems strategy, policy, management, security and service delivery. Systems security analysts Confer with clients to identify and document requirements, assess physical and technical security risks to data, software and hardware
+Develop policies, procedures and contingency plans to minimize the effects of security breaches. Confer with clients to identify and document requirements, assess physical and technical security risks to data, software and hardware Develop policies, procedures and contingency plans to minimize the effects of security breaches. Information systems quality assurance analysts Develop and implement policies and procedures throughout the software development life cycle to maximize the efficiency, effectiveness and overall quality of software products and information systems. Systems auditors Conduct independent third-party reviews to assess quality assurance practices, software products and information systems.
+A bachelor's degree in computer science, computer systems engineering, software engineering, business administration or a related discipline or completion of a college program in computer science is usually required.
+Experience as a computer programmer is usually required.
+Certification or training provided by software vendors may be required by some employers. Conduct independent third-party reviews to assess quality assurance practices, software products and information systems. A bachelor's degree in computer science, computer systems engineering, software engineering, business administration or a related discipline or completion of a college program in computer science is usually required. Experience as a computer programmer is usually required. Certification or training provided by software vendors may be required by some employers. Employment Type Full-time Job Type: Full-time Salary: From RO1,000.000 per month",-1,Can Axis Management & Immigration,Muscat,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,OMR 1K ,omr,9570.0,9570.0,9570.0,1,da,-1,0,0,0,0,0,0,0,0,0,0,other,analyst,OM
+Data Analyst,QAR 4K (Employer est.),"We are looking for a passionate data analyst certified in Excel Software. The successful candidate will turn data into information and insights. Responsibilities: · Interpret data, analyze results using statistical techniques, and provide ongoing reports · Identify, analyze, and interpret trends or patterns in complex data sets · Filter and “clean” data · Work with management to prioritize business and information needs Requirements: · Excellent knowledge of Excel / ( relevant certification is a plus) Excel / ( relevant certification is a plus) · Familiar with different formulas: Pivot table, VLOOKUP, COUNTIF, SUMIF... ... · Adept at queries, report writing and presenting findings on charts, graphs, power point · BS in Mathematics, Economics, Computer Science, Information Management or Statistics · Fresh graduated are welcome to apply · Candidate should be available in Qatar Job Types: Full-time, Permanent Salary: From QAR4,000.00 per month Ability to commute/relocate: Doha: Reliably commute or planning to relocate before starting work (Required) Experience: using excel: 3 years (Required) License/Certification: Excel certificate -Advanced level (Required)",-1,SkipCash,Doha,4d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,QAR 4K ,qar,4040.0,4040.0,4040.0,0,da,-1,0,0,0,0,0,0,0,0,1,0,other,analyst,QA
+Market Research Analyst,QAR 5K - QAR 8K (Employer est.),"Job Summary: The Market Research Analyst will research, compile, and analyze information on products and market conditions to identify potential new markets, sales opportunities, and the most effective methods of marketing specified products. Duties/Responsibilities: Identifies and defines the objective of an assigned marketing research project; determines the best methods to use to meet those objectives. Drafts questionnaires, polls, surveys, and other data collection resources. Researches and compiles data related to current product market, customer demographics and interest, and factors influencing product demand; analyzes results to identify ways of maximizing sales and market penetration of current products. Compiles data related to competitors’ products such as pricing, sales, and marketing or distribution methodology. Summarizes and analyzes data; makes recommendations related to research findings. Reports findings, complete with graphs illustrating data and written text explaining complex findings. Identifies potential new products or markets through research. Forecasts and tracks industry marketing and sales trends based on collected data. Delivers reports and presentations of findings to management and/or executive leadership. Performs other related duties as assigned. DESIGNATION Market Research Analyst SALARY Qr.5000 – Qr.8000 REQUIREMENT 02 EXPERIENCE 04 Years Minimum LOCATION Qatar PREFERENCE Experience in Related section REQUIREMENT ANNOUNCEMENT FOR ANSAR GROUP Required Skills/Abilities: Excellent verbal and written communication skills. Excellent organizational skills and attention to detail. Superior research and analytical skills. Ability to translate complex concepts and methodologies into easily understood language. Proficient with Microsoft Office Suite or related software. Education and Experience: Bachelor’s degree in Marketing Research, Statistics, Math, or related field required; MBA preferred. Some related experience preferred. Job Type: Full-time Salary: QAR5,000.00 - QAR8,000.00 per month Ability to commute/relocate: Doha: Reliably commute or planning to relocate before starting work (Required)",-1,Ansar Gallery,Doha,3d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,QAR 5K - QAR 8K ,qar,5050.0,8080.0,6565.0,0,da,-1,0,0,0,0,0,0,0,0,1,0,other,analyst,QA
+MIS & Data Analyst,QAR 7K - QAR 7K (Employer est.),"We are looking to hire a qualified MIS & Data Analyst who can join our dynamic team. Job Description Participate in business analysis activities to collect required reports and dashboards requirements.
+Review SLA time to time and make the required changes in consultation with the management.
+Convert business requirements into specifications used to implement the required reports and dashboards, potentially created from multiple data sources.
+Provide MIS-like annual statistical reports.
+Administer support as needed to ensure the availability and performance of the reports and dashboards created for all users. Participate in business analysis activities to collect required reports and dashboards requirements. Review SLA time to time and make the required changes in consultation with the management. Convert business requirements into specifications used to implement the required reports and dashboards, potentially created from multiple data sources. Provide MIS-like annual statistical reports. Administer support as needed to ensure the availability and performance of the reports and dashboards created for all users. Job Qualifications Candidates must have a Bachelor's Degree.
+Min. 2 years of hands-on experience in creating dashboard.
+Must have an expert-level knowledge in MS Excel (V -Lookup, Pivot, Formulas).
+Candidates with transferable visa with valid QID or under family sponsorship are preferred.
+Locally available in Qatar and can start immediately. Candidates must have a Bachelor's Degree. Min. 2 years of hands-on experience in creating dashboard. Must have an expert-level knowledge in MS Excel (V -Lookup, Pivot, Formulas). Candidates with transferable visa with valid QID or under family sponsorship are preferred. Locally available in Qatar and can start immediately. Job Type: Full-time Salary: QAR6,500.00 - QAR7,000.00 per month Education: Bachelor's (Required) Experience: MIS/Data Analysis: 2 years (Required)
+MS Excel: 2 years (Required) MIS/Data Analysis: 2 years (Required) MS Excel: 2 years (Required)",3.6,Vistas Global,Doha,30d+,501 to 1000 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,2023-02-22,-1,0,0,QAR 7K - QAR 7K ,qar,7070.0,7070.0,7070.0,1,da,-1,0,0,0,0,0,0,0,0,1,0,other,analyst,QA
+Market Analyst,QAR 5K (Employer est.),"Premium Capital Consultants is a Qatar based Management Consultancy Firm backed by one of the Qatar’s oldest business houses. Primary focus of the firm is to offer Business Consultancy programs to Startups and SME Sector. We are looking for a Market Analyst, He Should research analysts study market conditions to examine potential sales of a product or service. Main Duties · Monitor and forecast marketing and sales trends · Measure the effectiveness of marketing programs and strategies · Devise and evaluate methods for collecting data, such as surveys, questionnaires, and opinion polls · Gather data on consumers, competitors, and market conditions · Analyze data using statistical software · Convert complex data and findings into understandable tables, graphs, and written reports · Prepare reports and present results to clients and management. Qualification: · Suitably qualified with a Bachelors · A passion for Market Research in various businesses field · Preferred to have 2 or more years in Market Research · Should be familiar with Methodologies Field Research · Should be able to complete projects within short span of time · Should be good in preparation of Power Point Presentation Job Type: Full-time Salary: From QAR5,000.00 per month Ability to commute/relocate: Doha: Reliably commute or planning to relocate before starting work (Required) Application Deadline: 25/02/2023",-1,Premium Capital Consultants,Doha,3d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,QAR 5K ,qar,5050.0,5050.0,5050.0,0,da,-1,0,0,0,0,0,0,0,0,1,0,other,analyst,QA
+Investment Analyst - Qatar,QAR 25K - QAR 38K (Employer est.),"Investment Analyst - Qatar Qatari Holding Group
+Location: Doha, Qatar
+Exceptional Expatriate Salary Package + Benefits Qatari Holding Group Location: Doha, Qatar Exceptional Expatriate Salary Package + Benefits Reference #979 Our client is a leading Qatari Holding Group with diversified global business interests within the Hospitality, Real Estate, Industrial, Investment Management and Financial Services sectors. Our client now seeks to recruit an Investment Analyst to join the firm’s growing investment management team to work across the firm’s investment portfolio including stocks, bonds and currencies and deliver prompt and accurate analysis to the executive team. Reporting to the Investment Manager , this role is responsible for the following: Conduct extensive timely and accurate research across all asset classes (Equities, Fixed Income, and Structure Products) for the business development team and conduct extensive fundamental and technical analysis on major currencies.
+Preparation and presentation of Investment Proposals to meet management guidelines.
+Preparation of Daily Market Update Reports and submit periodic reports to keep management abreast of market developments.
+Preparation of due diligence reports for identified opportunities and present to the Investment Manager.
+Monitor all news, earnings and corporate developments of the existing portfolio and watch lists.
+Monitor existing asset allocation and suggest rebalancing strategies.
+Execution of trades in a precise, professional and timely manner.
+Follow up on trade status, market orders and update the portfolio accordingly.
+Database management by entering, verifying and backing up of data.
+Compliance of works to company rules, regulations and procedures.
+Update of Event and Economic Calendars and suggest actions to benefit from market trends to senior management. Conduct extensive timely and accurate research across all asset classes (Equities, Fixed Income, and Structure Products) for the business development team and conduct extensive fundamental and technical analysis on major currencies. Preparation and presentation of Investment Proposals to meet management guidelines. Preparation of Daily Market Update Reports and submit periodic reports to keep management abreast of market developments. Preparation of due diligence reports for identified opportunities and present to the Investment Manager. Monitor all news, earnings and corporate developments of the existing portfolio and watch lists. Monitor existing asset allocation and suggest rebalancing strategies. Execution of trades in a precise, professional and timely manner. Follow up on trade status, market orders and update the portfolio accordingly. Database management by entering, verifying and backing up of data. Compliance of works to company rules, regulations and procedures. Update of Event and Economic Calendars and suggest actions to benefit from market trends to senior management. The attributes we seek for this role comprise: BSc / BA in Business, Finance, Economics, Mathematics, Statistics, Accounting or comparable is essential with a Masters being highly regarded.
+5+ years of international experience in portfolio management, trading, banking and investment funds is required with candidates have strong capabilities in fundamental and technical analysis.
+Proficiency in Bloomberg, Excel, Visio and Power Point is required.
+The proactive organiser we week will be detailed oriented, be a team player and maintain a high level of professionalism in their role.
+Candidates must be proficient in English with Arabic proficiency being highly regarded.
+Experience in working across the UK and European markets would be highly regarded. BSc / BA in Business, Finance, Economics, Mathematics, Statistics, Accounting or comparable is essential with a Masters being highly regarded. 5+ years of international experience in portfolio management, trading, banking and investment funds is required with candidates have strong capabilities in fundamental and technical analysis. Proficiency in Bloomberg, Excel, Visio and Power Point is required. The proactive organiser we week will be detailed oriented, be a team player and maintain a high level of professionalism in their role. Candidates must be proficient in English with Arabic proficiency being highly regarded. Experience in working across the UK and European markets would be highly regarded. An excellent tax-free salary, with stable employment, will be offered to attract suitable candidates to this role. To apply, forward your resume in word format quoting reference #979. Job Type: Full-time Salary: QAR25,000.00 - QAR38,000.00 per month",-1,1Recruit International Pty Ltd,Doha,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,QAR 25K - QAR 38K ,qar,25250.0,38380.0,31815.0,1,da,-1,0,0,0,0,0,0,0,0,1,0,other,analyst,QA
+Analyst Programmer : WMS,QAR 14K - QAR 17K (Employer est.),"Nair Systems is currently looking for Analyst-Programmer – WMS for our Qatar operations with the following terms & conditions. Education: Degree in Information Technology domain Skills & Experience: Development experience in Java and JavaScript Development experience on Node Centre & Node Red Knowledge of using BIRT Reporting tool Experience of wealth management applications highly desirable Deep web experience in various technologies: modern web frameworks, REST, XML, CSS, HTML and Database such as Microsoft SQL, Oracle. Must have experience in Azure DevOps, TFS source code repository Experience in FIX format integration is an added advantage Good to have experience in Linux OS Experience in System Analysis & Design of Applications Perform debugging and testing of all related code and assist with troubleshooting both development and production issues Good understanding of relational database concepts, data-driven systems and system integration methodologies. Knowledge in software development lifecycle methodology Strong collaboration and investigative skills and the ability to cross reference information for accuracy Strong verbal and written skills, especially around code and technical design documentation Must have experience in application deployment and release activities Ability to work in a team environment, independently, take direction, and follow instructions. Ability to work under pressure, multitask and adapt quickly to changing priorities Background on Wealth Management Products/Systems is a great value add. Job Type: Full-time Salary: QAR14,000.00 - QAR17,000.00 per month Ability to commute/relocate: Doha: Reliably commute or planning to relocate before starting work (Required)",-1,NAIR SYSTEMS,Doha,28d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,QAR 14K - QAR 17K ,qar,14140.0,17170.0,15655.0,0,da,-1,0,0,0,0,0,0,0,0,0,1,other,analyst,QA
+Due Diligence & Transactions Analyst - Qatar,QAR 25K - QAR 38K (Employer est.),"Due Diligence & Transactions Analyst -
+Qatar Due Diligence & Transactions Analyst -  Qatar Qatari Holding Group
+Location: Doha, Qatar
+Exceptional Expatriate Salary Package + Benefits Qatari Holding Group Location: Doha, Qatar Exceptional Expatriate Salary Package + Benefits Reference #980 Our client is a leading Qatari Holding Group with diversified global business interests within the Hospitality, Real Estate, Industrial, Investment Management and Financial Services sectors. Our client now seeks to recruit a Due Diligence & Transactions Analyst for their Investment Management team to deliver high quality financial analysis and advice to the management and business development teams. Reporting to the Investment Manager, this role is responsible for the following: Conduct valuation of potential investments through various models and manage the due diligence process of each potential investment.
+Develop strong knowledge of the firm’s business holdings, operating environment, market and industry trends and challenges.
+Identification of business drivers and development of financial models to analyse sales, cashflow projections and business cycles.
+Translation of accounting data into meaningful management reports.
+Preparation and monitoring of performance models and reports monthly.
+Periodic analysis of budget variances and report to management.
+Development of financial strategic planning, periodic reports, budgets and recommend forecast plans.
+Preparation of cost, procedure and trend analyses and recommend actions to management.
+Support the business development team in the delivery of timely and accurate market research.
+Research and explore investment opportunities and prepare studies and presentation to management.
+Comply with internal rules, regulations and procedures. Conduct valuation of potential investments through various models and manage the due diligence process of each potential investment. Develop strong knowledge of the firm’s business holdings, operating environment, market and industry trends and challenges. Identification of business drivers and development of financial models to analyse sales, cashflow projections and business cycles. Translation of accounting data into meaningful management reports. Preparation and monitoring of performance models and reports monthly. Periodic analysis of budget variances and report to management. Development of financial strategic planning, periodic reports, budgets and recommend forecast plans. Preparation of cost, procedure and trend analyses and recommend actions to management. Support the business development team in the delivery of timely and accurate market research. Research and explore investment opportunities and prepare studies and presentation to management. Comply with internal rules, regulations and procedures. The attributes we seek for this role comprise: Bachelor of Science / Bachelor of Arts in Business, Finance, Economics, Mathematics, Statistics and/or Accounting. A Masters is highly desirable.
+5+ years of relevant experience in investment banking, M&A, Transactions, Private Equity Funds or Investment related fields. Real Estate and Hospitality experience is a plus.
+The proactive communicator we seek will be detail oriented , be highly organized and have a cooperative approach to their role.
+Proficiency in Excel, Visio and Power Point is required.
+Candidates must be proficient in English with Arabic proficiency being highly regarded.
+Experience in working across the UK and European markets would be highly regarded. Bachelor of Science / Bachelor of Arts in Business, Finance, Economics, Mathematics, Statistics and/or Accounting. A Masters is highly desirable. 5+ years of relevant experience in investment banking, M&A, Transactions, Private Equity Funds or Investment related fields. Real Estate and Hospitality experience is a plus. The proactive communicator we seek will be detail oriented , be highly organized and have a cooperative approach to their role. Proficiency in Excel, Visio and Power Point is required. Candidates must be proficient in English with Arabic proficiency being highly regarded. Experience in working across the UK and European markets would be highly regarded. An excellent tax-free salary, with stable employment, will be offered to attract suitable candidates to this role. To apply, forward your resume in word format quoting reference #980
+. Job Type: Full-time Salary: QAR25,000.00 - QAR38,000.00 per month",-1,1Recruit International Pty Ltd,Doha,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,QAR 25K - QAR 38K ,qar,25250.0,38380.0,31815.0,1,da,-1,0,0,0,0,0,0,0,0,1,0,other,analyst,QA
+Business Analyst,QAR 5K - QAR 10K (Employer est.),"Job Position: BUSINESS ANALYST BUSINESS ANALYST Job Location : Qatar Experience : 2- 6 Years Preferred Nationality: Jordan Bilingual: English and Arabic- Writing & Speaking (Mandatory) Job Description: Evaluating business processes and make recommendations for improvement based on industry trends, ISO 20000 and professional business knowledge.
+Improve training and operational procedures within business to increase efficiency and productivity.
+Work directly with clients to understand the individual needs of the business.
+Create and present reports to executive team members and shareholders to support recommendations.
+User variety of data analysis and organization tools to discover the most impactful insights.
+Develop training materials for new users and conduct demos Evaluating business processes and make recommendations for improvement based on industry trends, ISO 20000 and professional business knowledge. Improve training and operational procedures within business to increase efficiency and productivity. Work directly with clients to understand the individual needs of the business. Create and present reports to executive team members and shareholders to support recommendations. User variety of data analysis and organization tools to discover the most impactful insights. Develop training materials for new users and conduct demos Required Qualification & Experience Should have experience as Business Analyst in ISO 20000 projects with a semi government and a government organizations.
+Bachelor’s degree in IT
+Relevant Certification from authorized training body Should have experience as Business Analyst in ISO 20000 projects with a semi government and a government organizations. Bachelor’s degree in IT Relevant Certification from authorized training body Job Type: Full-time Salary: QAR5,000.00 - QAR10,000.00 per month Ability to commute/relocate: Doha: Reliably commute or planning to relocate before starting work (Required) Application Question(s): How many years of experience do you have in ISO 20000 projects? Language: Arabic (Required)",-1,Ernest Talent,Doha,9d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,QAR 5K - QAR 10K ,qar,5050.0,10100.0,7575.0,0,da,-1,0,0,0,0,0,0,0,0,0,0,other,analyst,QA
+Board Certified Behavior Analyst (BCBA),QAR 12K - QAR 21K (Employer est.),"Are you Looking for a unique opportunity to make a difference in the lives of children? Join our family today and start making a difference! Our team of passionate professionals are dedicated in providing evidence-based therapy services to children with developmental disabilities in a compassionate, caring and supportive environment. Join our family today and start making a difference! We take our commitment to families seriously, and we’re proud of our talented team and the work we do. At Health Innovations of America, you’ll be part of a growing family and you can expect to gain valuable experience working in the high demand field of behavioral health with opportunities to collaborate with other professionals in the field and under supervision from Mental Health Professional. You will be helping to improve the quality of life for children and their families across all settings including in-center, school and community settings. Summary: The Board Certified Behavior Analyst®(BCBA®) at Health Innovations of America is a graduate-level certification in behavior analysis. Professionals certified at the BCBA level are independent practitioners who provide behavior-analytic services. BCBA Supervisor at Health Innovations of America may supervise the work of Board Certified Assistant Behavior Analysts® (BCaBAs®), Registered Behavior Technicians® (RBTs®), and other professionals who implement behavior-analytic interventions. Board Certified Behavior Analyst®(BCBA®) Job responsibilities/tasks Provides individual, group and family intervention in the home, community, center, clinic and school environments as indicated on client individual treatment plans.
+Create and implement treatment plans for clients with behavioral, emotional, and developmental concerns with an emphasis on Autism Spectrum Disorders or related disorders utilizing principles of applied behavior analysis.
+Curriculum assessment, data collection, data analysis, task analysis, functional analysis, and goal writing.
+Conducts initial Functional Behavior Assessments included in each Individual Treatment Plan and provides frequent data analysis to modify each assessment in order to develop the most effective and up to date behavior intervention.
+Design and oversee applied behavior analysis (ABA) treatment programs for clients with autism spectrum disorder and other special needs
+Train behavioral intervention providers, parents, and other professionals to implement ABA as indicated on individual treatment plans.
+Conduct face-to-face supervision for clients assigned to your caseload.
+Conduct internal and external client team meetings to update the client’s treatment plan and to support behavior instructors and parents on the team every 3-6 months as needed.
+Conduct a minimum of 20 indirect and direct billable weekly therapy hours.
+Assess the client’s treatment needs and write detailed goals and objectives for each client’s treatment plan so that progress may be tracked and measured.
+Attend IEP, IFSP, and transition meetings to present the client’s present level of performance, progress on current goals, and proposed goals.
+Consult with parents and school personnel in person, on the phone, or through telemedicine.
+Conduct annual performance evaluations and career counseling for behavior instructors.
+Conduct face-to-face supervision for RBT’s assigned to your caseload.
+Recruit, interview, train, and manage level I, II and III EIDBI providers.
+Implements effective, timely and continuous communication with QSP and Leadership Team.
+Perform other job duties as assigned by QSP, Director of Operations or Clinical Director. Provides individual, group and family intervention in the home, community, center, clinic and school environments as indicated on client individual treatment plans. Create and implement treatment plans for clients with behavioral, emotional, and developmental concerns with an emphasis on Autism Spectrum Disorders or related disorders utilizing principles of applied behavior analysis. Curriculum assessment, data collection, data analysis, task analysis, functional analysis, and goal writing. Conducts initial Functional Behavior Assessments included in each Individual Treatment Plan and provides frequent data analysis to modify each assessment in order to develop the most effective and up to date behavior intervention. Design and oversee applied behavior analysis (ABA) treatment programs for clients with autism spectrum disorder and other special needs Train behavioral intervention providers, parents, and other professionals to implement ABA as indicated on individual treatment plans. Conduct face-to-face supervision for clients assigned to your caseload. Conduct internal and external client team meetings to update the client’s treatment plan and to support behavior instructors and parents on the team every 3-6 months as needed. Conduct a minimum of 20 indirect and direct billable weekly therapy hours. Assess the client’s treatment needs and write detailed goals and objectives for each client’s treatment plan so that progress may be tracked and measured. Attend IEP, IFSP, and transition meetings to present the client’s present level of performance, progress on current goals, and proposed goals. Consult with parents and school personnel in person, on the phone, or through telemedicine. Conduct annual performance evaluations and career counseling for behavior instructors. Conduct face-to-face supervision for RBT’s assigned to your caseload. Recruit, interview, train, and manage level I, II and III EIDBI providers. Implements effective, timely and continuous communication with QSP and Leadership Team. Perform other job duties as assigned by QSP, Director of Operations or Clinical Director. Required Qualifications: BCBA certification
+Completed BACB 8-hour Supervisor Training course
+Complete all necessary CEU’s required by the BACB to maintain Board Certification.
+Master’s degree in education, psychology, counseling, behavior analysis, behavior science, human development, social work, or rehabilitation
+5+ years’ experience working as a behavior therapist implementing ABA interventions with children with autism
+At least 4 year experience working as a behavior supervisor designing ABA programs for children with autism, as well as training parents and instructors how to implement these interventions.
+Knowledge and experience with DTT, NATS/NET, VB
+Experience conducting assessments: VB-MAPP, Vineland, ABLLS, Brigance, FBA BCBA certification Completed BACB 8-hour Supervisor Training course Complete all necessary CEU’s required by the BACB to maintain Board Certification. Master’s degree in education, psychology, counseling, behavior analysis, behavior science, human development, social work, or rehabilitation 5+ years’ experience working as a behavior therapist implementing ABA interventions with children with autism At least 4 year experience working as a behavior supervisor designing ABA programs for children with autism, as well as training parents and instructors how to implement these interventions. Knowledge and experience with DTT, NATS/NET, VB Experience conducting assessments: VB-MAPP, Vineland, ABLLS, Brigance, FBA Preferred Qualifications: Bilingual
+3+ years’ experience working as a RBT Supervisor
+2+ years’ experience working as a EIDBI Level 1 Provider working with ABA children diagnosed autism and related conditions ages 2-21 years.
+5+ years’ experience working with children diagnosed autism and related conditions ages 10-18 years.
+Excellent organization and time management skills
+Process driven and result-oriented, able to work independently while embracing collaboration
+Creative problem solver with the ability to anticipate needs and actively participate in a continuous improvement culture
+Excellent follow-up and follow-through capabilities Bilingual 3+ years’ experience working as a RBT Supervisor 2+ years’ experience working as a EIDBI Level 1 Provider working with ABA children diagnosed autism and related conditions ages 2-21 years. 5+ years’ experience working with children diagnosed autism and related conditions ages 10-18 years. Excellent organization and time management skills Process driven and result-oriented, able to work independently while embracing collaboration Creative problem solver with the ability to anticipate needs and actively participate in a continuous improvement culture Excellent follow-up and follow-through capabilities PERKS: Competitive Pay
+Health Benefit (Health, Dental and Vision)
+Opportunities for Career Advancement and Professional Development
+Paid Training
+Mentorship from lead clinicians
+Continuing Education Units to maintain BCBA credential Competitive Pay Health Benefit (Health, Dental and Vision) Opportunities for Career Advancement and Professional Development Paid Training Mentorship from lead clinicians Continuing Education Units to maintain BCBA credential Award-Winning – A Great Place to Work! “The Best Place To Be Your Best” That’s our challenge to people who take pride in making a difference and want ongoing opportunities to do it better. Job Type: Full-time Salary: QAR12,000.00 - QAR21,000.00 per month Ability to commute/relocate: Doha: Reliably commute or planning to relocate before starting work (Preferred)",-1,HIA Healthcare,Doha,26d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,QAR 12K - QAR 21K ,qar,12120.0,21210.0,16665.0,0,da,-1,0,0,0,0,0,0,0,0,0,0,other,analyst,QA
+Engineer - SOC Analysis (L2),QAR 9K - QAR 12K (Employer est.),"Job Description: a cybersecurity services provider with a focus on high-profile, high-threat private and public-sector customers who demand experience and proven security models to protect their data. we are seeking a SOC L2 Analyst Engineer who has experience in SOC Operations, Log Analysis, Incident Response and Triage. a motivated, career and customer-oriented SOC Analyst to join our team in Qatar to provide unparalleled support to our customers and to begin an exciting and rewarding career. The SOC Analyst will work on multiple Solutions including SIEM, SOAR, Log management, EDR and vulnerability management solutions and possibly other Security components to investigate and respond to security-related incidents and alerts. Responsibilities: Candidate should have experience in three or more of the following area Incident Handling: experience conducting or managing incident response for organizations, investigating targeted threats such as Advanced Persistent Threats, Organized Crime, and Hacktivists.
+Computer Forensic Analysis: a background using a variety of forensic analysis tools in incident response investigations to determine the extent and scope of compromise.
+Malware Analysis: ability to perform static and dynamic malware analysis to understand the nature of malware
+Systems Administration: an understanding of system internals is required to understand how to implement and execute countermeasures and remediation.
+Network Forensic Analysis: knowledge of network protocols, network analysis tools, and ability to perform analysis of associated network logs.
+Network Operations and Architecture/Engineering: strong understanding of secure network architecture and a strong background in performing network operations.
+Incident Remediation: strong understanding of targeted attacks and ability to create customized tactical and strategic remediation plans for compromised organizations.
+Programming/Scripting (preferred but not mandatory): can understand coding in C, C#, VB, Python, Perl, Ruby on Rails, and .NET
+Threat hunting: experience working as Threat Hunter with proactively detecting and seeking out threats within the environment. Analyze all the logs but identify anomalous activity across a vast threat surface of millions of events. monitors activity patterns to detect, identify and isolate the threat.
+Linux Operating System: experience working on Linux Operating System Environment with experience on commands. Incident Handling: experience conducting or managing incident response for organizations, investigating targeted threats such as Advanced Persistent Threats, Organized Crime, and Hacktivists. Incident Handling: Computer Forensic Analysis: a background using a variety of forensic analysis tools in incident response investigations to determine the extent and scope of compromise. Computer Forensic Analysis: Malware Analysis: ability to perform static and dynamic malware analysis to understand the nature of malware Malware Analysis: Systems Administration: an understanding of system internals is required to understand how to implement and execute countermeasures and remediation. Systems Administration: Network Forensic Analysis: knowledge of network protocols, network analysis tools, and ability to perform analysis of associated network logs. Network Forensic Analysis: Network Operations and Architecture/Engineering: strong understanding of secure network architecture and a strong background in performing network operations. Incident Remediation: strong understanding of targeted attacks and ability to create customized tactical and strategic remediation plans for compromised organizations. Incident Remediation: Programming/Scripting (preferred but not mandatory): can understand coding in C, C#, VB, Python, Perl, Ruby on Rails, and .NET Threat hunting: experience working as Threat Hunter with proactively detecting and seeking out threats within the environment. Analyze all the logs but identify anomalous activity across a vast threat surface of millions of events. monitors activity patterns to detect, identify and isolate the threat. Threat hunting: Linux Operating System: experience working on Linux Operating System Environment with experience on commands. Linux Operating System: Additionally, all candidates must possess the following: Capable of completing technical tasks without supervision. • Contributing thought leader within the incident response.
+Ability to foster a positive work environment and attitude. Capable of completing technical tasks without supervision. • Contributing thought leader within the incident response. Ability to foster a positive work environment and attitude. Experience and Qualifications: Must be 4+ years of hands-on experience in the Information Security domain.
+2+ years of hands-on experience in any, Industry Leading, EDR solution
+Willing to work onsite
+Willing to work a 24/7/365 schedule including days on the weekend. Must be 4+ years of hands-on experience in the Information Security domain. 2+ years of hands-on experience in any, Industry Leading, EDR solution Willing to work onsite Willing to work a 24/7/365 schedule including days on the weekend. Must have a minimum of two Certifications: (Any two) SANS GCTI
+CTIA
+SAN FOR 508 (preferred trained)
+SANS SEC504 • eCTHPv2 (mandatory)
+ECIH Having EDR Product (Carbon Black Response, RSA ECat, Symantec EDR) Certifications will be an added advantage. SANS GCTI CTIA SAN FOR 508 (preferred trained) SANS SEC504 • eCTHPv2 (mandatory) ECIH Having EDR Product (Carbon Black Response, RSA ECat, Symantec EDR) Certifications will be an added advantage. Job Type: Full-time Salary: QAR9,000.00 - QAR12,000.00 per month Ability to commute/relocate: Doha: Reliably commute or planning to relocate before starting work (Required)",-1,Tradify Services,Doha,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,QAR 9K - QAR 12K ,qar,9090.0,12120.0,10605.0,1,da,-1,1,0,0,0,0,0,0,0,0,0,other,other,QA
+Digital Growth Strategist,QAR 72K (Employer est.),"Digital Growth Strategist Doha, Qatar Full time Wanted: A DigitalGrowth Strategist who delivers WOW experience for clients. Wanted: Dear Addikted Marketing Wizard, If you’ve been searching through countless lifeless job listings on Indeed… Feeling a bit dizzy after reading the ""We're looking for a highly experienced Marketing Strategist... blah blah blah"" job ads.. And If you've been looking for THAT opportunity to upgrade your skill set and align yourself with the fastest growing digital agency in Qatar…(soon to be the planet ). Then this will be the most important job listing you ever read. Here’s why... Firstly... put down what you are doing and read these lines carefully... Perhaps this is the opportunity you have been seeking to make a difference in your life. We are a full-service digital marketing agency that is interrupting the market and growing FAST. Now we're on a crusade to conquer the world muahahahahaha! Not in an evil way. Just jokes. Hell, who are we kidding...your newsfeed is full of our ads already. Maybe you’ve even taken a sneaky peak at our careers page. *wink* Our business consists of…the Wildest, Most Passionate Bunch Of Lunatic addikted Marketers You’ve Ever Worked With a mission to help business owners scale their ROI profitably Leaves their competitors in the dust without spending a fortune... With our easy-to-use, reliable, and profitable ""Selling Machine"" Not ""hope and prayer"" marketing strategies of the Dark Ages. But enough about us, what about you... You will be working directly with a portfolio of clients managing the communication and identifying improvements of their SEO and pay-per-click campaigns (Google AsWords, Meta Ads, YouTube Ads, TikTok Ads & Snap Ads), social media and markeing funnels. Our team of speacialists will build and manage the clients campaigns, allowing you to focus on diving deeper into each account to strategise how can achieve even more ROI for the client. With our team of specialists at your disposal, we're looking for an analytical mind that is results driven and dedicated to seeing their clients dominate their market. What you'll do: Act as the main point of contact for the portfolio of online marketing clients, building a positive relationship as the representative for the company.** Conduct strategy audits to identify further opportunities for your clients to scale their brand.** Prepare monthly reports (with our super cool software we use) and make recommendations for ongoing improvements with the rest of the team.**
+Analyze analytics to identify areas of opportunity and utilise conversion rate optimization tactics to squeeze as much ROI as humanly possible out of each RIAL spent.**
+Educate clients on our SEO and PPC (Google AsWords, Meta Ads, YouTube Ads, TikTok Ads & Snap Ads) strategy and tactics.**
+Providing and exceptional ""WOW"" customer experience with the ability to turn a negative into a positive (the WOW experience is one of our core values called ""PAWRTY"")** Prepare monthly reports (with our super cool software we use) and make recommendations for ongoing improvements with the rest of the team.** Analyze analytics to identify areas of opportunity and utilise conversion rate optimization tactics to squeeze as much ROI as humanly possible out of each RIAL spent.** Educate clients on our SEO and PPC (Google AsWords, Meta Ads, YouTube Ads, TikTok Ads & Snap Ads) strategy and tactics.** Providing and exceptional ""WOW"" customer experience with the ability to turn a negative into a positive (the WOW experience is one of our core values called ""PAWRTY"")** But Before You Get ALL Excited…I’ll Stop You ⛔️ There... Because this role won't be easy. We’re a fast-paced company that demands nothing less than the best. We have clients and customers in every niches you can think of... From dentists to restaurant, constructions to supermarket, Trainning academy to spas And we are truly an end-to-end agency. It's quite a workload. And, as such... I need a super sharp and passionate Digital Growth Strategist at the helm to run the show. Whether you call yourself an Account Manager, Client strategist, Marketing Nerd... You must share the belief that... There is almost no CLIENT problem You Can't Solve With Communication & Marketing Knowledge, A Great Strategy, and A Solid Team Around You. Look, our ideal candidate will have an "" I got this"" atittude...you will be solution-focused with a proven track record of positive testimonials and higher customer LTV. You will have to possess the ability to run throught walls to get to a solution. And won't be the type of person who throws their hands in the air and gives up at the first sight of a challenge. What will be your everyday work look like? Will it be boring? Well, let me just say this... Being ADDIKTED's Digital Growth Strategy will keep your workday diverse and far from BORING For example... One day you might be auditing a client's website and making a strategy to super-power their website conversion rate. And the next day you might be working with your fellow social media specialist to create a world-class TikTok content strategy. You’ll have a full library of resources, books, courses, seminars to take your skills to the next level. So...If you’ve been looking for your opportunity to get your foot in the door with a fast-growing company... Take ownership of a multitude of clients and prove you have what it takes to succeed… Then this job description has no doubt been a breath of fresh air... Here's What To Do Next... Please take the time to write a Cover Letter that tells us about YOU - Attached with your resume. Cover Letter that tells us about YOU - Attached with your resume. Not some wishy-washy cover letter like… “I’m 28-year-old Virgo from (Your lovely country) - who enjoys Blacklist on Neftlix, Almond Latte’s and Billions”... No. We want the details. The juice. The nitty-gritty. Specifically why you think you would be the perfect fit for this role. If you can’t take the time to do this. Please don’t waste our time or yours by applying. Best of luck. P.S. If this job description excited you even just a little bit. And you believe that you are indeed the Digital Growth Strategist I'm looking for. P.S. Then please write and send your cover letter ASAP as we're currently interviewing for this position and I'm sure it will get filled fast. Who knows. Maybe it will be a fit and maybe it won’t. And maybe, just maybe, this will turn out to be the best job you've ever had. Requirements What we're looking for: 1-2 years of agency experience in a similar role - not a must!
+Well rounded knowledge and passion of digital marketing, including SEO, PPC, Conversion Rate Optimization and Growth Hacking.
+A hunger for learning and enhancing your existing skills.
+Confident in up-selling and retaining clients.
+Highly organized and process-driven.
+Exceptional customer service is KEY!
+Google Analytics and Google AdWords certified is a PLUS
+Fathom Analytics is a PLUS 1-2 years of agency experience in a similar role - not a must! Well rounded knowledge and passion of digital marketing, including SEO, PPC, Conversion Rate Optimization and Growth Hacking. A hunger for learning and enhancing your existing skills. Confident in up-selling and retaining clients. Highly organized and process-driven. Exceptional customer service is KEY! Google Analytics and Google AdWords certified is a PLUS Fathom Analytics is a PLUS Benefits The juicy part: Generous salary - we want the best talent and reward as such.
+Extensive training and full support - we take training very seriously and will provide you with the industry's very best training, giving you the knowledge and confidence needed for greatness.
+Amazing growth prospects and upward mobility in our fast-paced agency.
+Jawdropping headquarters in AlSadd is close to cafes and public transport. Generous salary - we want the best talent and reward as such. Generous salary Extensive training and full support - we take training very seriously and will provide you with the industry's very best training, giving you the knowledge and confidence needed for greatness. Extensive training and full support Amazing growth prospects and upward mobility in our fast-paced agency. Amazing growth prospects Jawdropping headquarters in AlSadd is close to cafes and public transport. Jawdropping headquarters We move at a lightning pace! Only successful candidates will be contacted. If you haven't been invited via email to complete an interview kit within 5 business days after submitting your application, unfortunately you haven't been successful this time around! Job Type: Full-time Salary: Up to QAR72,000.00 per year Application Question(s): Why are you leaving your current role?
+Why do you want to work for Addikted?
+How many weeks notice are you required to give your current employer?
+Reminder: Did you upload your cover letter? Why are you leaving your current role? Why do you want to work for Addikted? How many weeks notice are you required to give your current employer? Reminder: Did you upload your cover letter? Language: Arabic (Required) License/Certification: Qatari Driving License (Required) Application Deadline: 31/10/2022
+Expected Start Date: 31/10/2022 ",-1,Addikted Marketing & Technology,Doha,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,QAR 72K ,qar,72720.0,72720.0,72720.0,1,other,-1,0,0,0,0,0,0,0,0,0,0,other,other,QA
+Senior BO/DS Consultant,QAR 29K (Employer est.),"Qualifications & Experience required: Bachelor's degree in Computer Information Systems, Computer Science Engineering or any other relevant degree.
+Minimum 10-12 years of strong experience in a similar role.
+Experience in a senior level consultant in SAP Business Objects Suite.
+Experience in SAP Cloud Analytics.
+Experience in SAP Data Services.
+Work experience using S/4 HANA SAP BW4/HANA.
+Must be able to write and understand SQL.
+Experience in JS/Business Objects SDK/UI5 Bachelor's degree in Computer Information Systems, Computer Science Engineering or any other relevant degree. Minimum 10-12 years of strong experience in a similar role. Experience in a senior level consultant in SAP Business Objects Suite. Experience in SAP Cloud Analytics. Experience in SAP Data Services. Work experience using S/4 HANA SAP BW4/HANA. Must be able to write and understand SQL. Experience in JS/Business Objects SDK/UI5 Good to Have Skills: Exposure to native HANA modeling and security model build.
+Machine learning.
+Java Script.
+Mobile development using UI5 and Fiori principles.
+Any other dash boarding/reporting tools exposure. Exposure to native HANA modeling and security model build. Machine learning. Java Script. Mobile development using UI5 and Fiori principles. Any other dash boarding/reporting tools exposure. Job Types: Full-time, Contract
+Contract length: 24 months  Salary: Up to QAR29,000.00 per month Education: Bachelor's (Preferred) Experience: SAP Business Objects Suite: 10 years (Required) Language: English (Required) Application Deadline: 28/02/2023",-1,SFAI Qatar,Doha,6d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,QAR 29K ,qar,29290.0,29290.0,29290.0,0,other,-1,0,0,0,0,0,0,1,0,0,1,senior,other,QA
+Data Collection - Image,SAR 51.92 Per Hour(Employer est.),"Job Description - Images Collection Project
+Middle East market
+Wow AI is looking for native freelancers from the Middle East to work on our Images collection Project.
+It is a remote and freelance job that you can work from anywhere you want.
+Flexible working hours
+Competitive rate.
+About Wow AI
+Wow AI is a trusted partner that provides high-quality data solutions for AI training on a large scale. About the Project *To collect 10 pictures of each user, including:",-1,WOW AI LLC,Mecca,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,1,0,SAR 51.92 Per Hour,sar,8141.056,8141.056,8141.056,1,other,-1,0,0,0,0,0,0,0,0,0,0,other,other,SA
+Data Analyst,AED 12K - AED 13K (Employer est.),"Monthly Salary AED12,000 - AED13,000
+8hrs/ 5 days a week
+Contract Period -10 months Extendable
+Good communication Skills and very good data analytics
+Job Location Dubai
+Preferably own visa, can join immediately
+Job Type: Contract
+Contract length: 10 months
+Salary: AED12,000.00 - AED13,000.00 per month",3.7,WeSource,Dubai,1 day ago,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-22,-1,0,0,AED 12K - AED 13K ,aed,12000.0,13000.0,12500.0,0,da,-1,0,0,0,0,0,0,0,0,0,0,other,analyst,Dubai
 Financial Analyst for Business Set- Up,AED 8K - AED 13K (Employer est.),"Job responsibilities:
 Collecting, interpreting, and reviewing financial information.
 Predicting future financial trends.
@@ -117,50 +227,87 @@ Reporting to management and stakeholders, and providing advice how the company a
 Producing financial reports related to budgets, account payables, account receivables, expenses etc.
 Developing long-term business plans based on these reports.
 Reviewing, monitoring, and managing budgets.
-Developing strategies that work to minimize financial risk.",-1,A&A Associates,Abu Dhabi,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 8K - AED 13K ,aed,8000.0,13000.0,10500.0,-1,0,0,0,0,0,0,0
+Developing strategies that work to minimize financial risk.",-1,A&A Associates,Abu Dhabi,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,AED 8K - AED 13K ,aed,8000.0,13000.0,10500.0,1,da,-1,0,0,0,0,0,0,0,0,0,0,other,analyst,Abu Dhabi
+School Data Analyst,AED 4K - AED 6K (Employer est.),"Manage and maintain the smooth operation of the school information system (iSAMS) while providing data support for our schools. In this role, you will be responsible for collating, analyzing, and verifying data from multiple sources and develop excel reports for management to support learning. You will also be required to support staff on data related matters and maintain various school applications and resources.
+Requirements:
+1. Bachelor's or master’s degree in information management, data analytics, computer science, or a similar field.
+2. 3+ years' school experience as a school data specialist/analyst.
+3. Experience in School Management applications iSAMS, Managebac, Seesaw, Learning ladders, Toddle etc.",-1,Raffles International School,Dubai,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,AED 4K - AED 6K ,aed,4000.0,6000.0,5000.0,1,da,-1,0,0,0,0,0,0,0,0,0,0,other,analyst,Dubai
+Business Analyst,AED 8K (Employer est.),"Position Summary
+The Business Analyst position will work closely with the local management team, thereby giving the candidate the opportunity to work with a wide range of different topics, make improvement recommendations and drive projects across the region ensuring that projects go from idea to execution and implementation.
+Key Position Accountabilities
+The Business Analyst is responsible and accountable for (but not limited to) the following:
+· Collect & analyze data across various departments. Present findings (presentations, charts, graphs, tables) and pitch ideas & suggestions to the management",-1,Seven Seas Shipchandlers LLC,Dubai,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,AED 8K ,aed,8000.0,8000.0,8000.0,1,da,-1,0,0,0,0,0,0,0,0,0,0,other,analyst,Dubai
+Data Analyst,AED 10K - AED 13K (Employer est.),"We are Looking for Own Visa (Freelance Visa) Candidate Only
+Experience and Knowledge:
+ Minimum 7-8 years of experience in data analytics with an understanding of customer and market dynamics.
+ Hands-on experience handling high volume of raw data in excel and reporting tools.
+ Proficiency in Microsoft Excel and Data PowerPoint Presentations are must.
+ Experience with reporting tools like Power BI/Tableau/Alteryx to conduct data analysis is preferred.",-1,Ontime manpower supply,Dubai,24h,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,AED 10K - AED 13K ,aed,10000.0,13000.0,11500.0,0,da,-1,0,0,0,0,0,0,0,1,0,0,other,analyst,Dubai
+Data Analyst,AED 4K (Employer est.),"Data Analyst responsibilities include:
+· Interpreting data, andanalyzing results using statistical techniques
+· Developing and implementing data analyses, data collection systems, and other strategies that optimize statistical efficiency and quality.
+· Acquiring data from primary or secondary data sources and maintaining databases
+Job brief
+We are looking for a passionate certified Data Analyst. The successful candidate will turn data into information, information into insight and insight into business decisions.",-1,Firstline Document Clearing Services,Dubai,5d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,AED 4K ,aed,4000.0,4000.0,4000.0,0,da,-1,0,0,0,0,0,0,0,0,1,0,other,analyst,Dubai
+marketing Data Analyst,AED 4K - AED 5K (Employer est.),"Collect data on competitors' marketing tactics, sales prices and product/service distribution. Gather and analyze data related to market conditions and consumer demographics. Research customers' opinions, buying habits, preferences, wants and needs.
+Job Type: Full-time
+Salary: AED3,500.00 - AED5,000.00 per month
+Ability to commute/relocate:
+Dubai: Reliably commute or planning to relocate before starting work (Required)",-1,Aldaem information technology,Dubai,18d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,AED 4K - AED 5K ,aed,4000.0,5000.0,4500.0,0,da,-1,0,0,0,0,0,0,0,0,0,0,other,analyst,Dubai
+Investment Advisor,AED 5K - AED 6K (Employer est.),"Investment Advisor
+Company Name:Client First Management Consultancy
+Responsibilities:
+Prospect for new clients
+Maintain and deepen relations with existing client
+Educate clients regarding the range of applicable investment options available to them
+Determine the risk tolerance of clients
+Develop personally tailored investment solutions for clients
+Follow through on the investment actions approved by clients",-1,Client First Management Consultancy,Dubai,27d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,AED 5K - AED 6K ,aed,5000.0,6000.0,5500.0,0,other,-1,0,0,0,0,0,0,0,0,0,0,other,other,Dubai
 Data Analyst,AED 4K - AED 5K (Employer est.),"We are looking for a strong Data Analyst to help us build and efficiently scale a distributed system from the ground up. You will join a small but growing team that provides data, frameworks, and insights to the company at large. You will be bringing analytics into the business-as-usual way of doing things and for designing, planning and delivering analytics use cases on time.
 Currently, the Analytics unit continues to be in a start-up mode and is expected to grow very quickly. As such, team members are given the latitude to shape the trajectory of the unit and bring their ideas and visions into fruition.
 Role Details – Key Responsibilities and Accountabilities:
-Pull and model data from our data lake and Google Analytics to create quantitative models of business trends and measure impact of online sales growth initiatives",-1,Pure Magic Exhibition & Conference Organizing,Dubai,13d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 4K - AED 5K ,aed,4000.0,5000.0,4500.0,-1,0,0,0,0,0,0,0
-Data Analyst (Economic Data Analysis),AED 18K (Employer est.),"Economics education – min undergraduate qualification in Economics
-Data Analysis - evidence of econometrics analysis and/or modelling (including macroeconomic indicators, GDP analysis), trend analysis
-Excel (advanced)
-Microsoft Powerpoint
-Python (desirable)
+Pull and model data from our data lake and Google Analytics to create quantitative models of business trends and measure impact of online sales growth initiatives",-1,Pure Magic Exhibition & Conference Organizing,Dubai,29d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,AED 4K - AED 5K ,aed,4000.0,5000.0,4500.0,0,da,-1,0,0,0,0,0,0,0,0,0,0,other,analyst,Dubai
+"Technical Analyst of Forex, Commodity & Stocks Trading",AED 3K - AED 15K (Employer est.),"Profitfx that provides financial (Forex trading & stock market) education. We are also helping customers to learn trading platforms and Trading risk management.
+Duties and responsibilities
+Managing online and in-office forex education sessions with clients.
+Utilize your analytical skills and decision-making to help your clients make meaningful trades with risk management.
+Working directly with the marketing and sales teams in planning and implementing effective strategies.
+Teaching trading platforms, indicators, and tools to clients for MT4 & MT5.
+Analyzing and interpreting market data using technical analysis.",-1,Profitfx,Dubai,7d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,AED 3K - AED 15K ,aed,3000.0,15000.0,9000.0,0,da,-1,0,0,0,0,0,0,0,0,0,0,other,analyst,Dubai
+product research analyst,AED 4K - AED 5K (Employer est.),"Product analysts perform market research and analyze market data, identifying consumer behaviors and trends. They make recommendations and provide launch strategies based on their analyses to increase firm profitability. Product analysts monitor product performance and recommend alterations to meet sales forecasts.
 Job Type: Full-time
-Salary: Up to AED18,000.00 per month
-Ability to commute/relocate:",3.1,"Reach Employment Services
-3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,da,"Up to AED18,000.00 per month",0,0,"Up to AED18,000.00 per month",aed,18000.0,18000.0,18000.0,-1,1,0,0,0,0,0,0
-Data Analyst,AED 18K (Employer est.),"Experience required 3+ years minimum
-Experience working in a business analysis, data analysis, reporting or business strategy role
-Excellent problem-solving skills including the ability to analyze and resolve complex problems using data
-Strong knowledge in BI tool
-Strong knowledge in database management
-Knowledge in consuming APIs
-Advanced command in Google Tag Manager
-Strong knowledge in Google Analytics Universal and Google Analytics 4",3.1,"Reach Employment Services
-3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,da,-1,0,0,AED 18K ,aed,18000.0,18000.0,18000.0,-1,0,0,0,0,0,0,0
-Analyst,AED 5K (Employer est.),"Job Responsibilities:
-1. Market Research and suggestions on market trends
-2. Analysis of internal and external data, Prepare MIS reports, Analytics and
-Prepare actionably.
-3. Scenario analysis and work on Business Plan.
-Required Skill Set
-1. Excellent Communication skills
-2. Good Organizational and time management skills",-1,BIG WAVE INFOTECH,Dubai,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 5K ,aed,5000.0,5000.0,5000.0,-1,0,0,0,0,0,0,0
-Financial Analyst,AED 7K - AED 10K (Employer est.),"Analyst job profile
-The analyst gathers, interprets, and uses complex data to develop actionable steps to improve performance and optimize results.
-Analysts gather information and statistics, analyze trends, and then use charts and graphs to present the results.
-Analyst job description
-We are looking for an experienced Analyst to join our team, someone who will provide support for various business functions within Hospitality, including data management, reporting and analytics, data analysis, data modeling, data profiling, and data visualization.",5.0,"Stallion HR Solutions
-5.0",Dubai,1 day ago,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,da,-1,0,0,AED 7K - AED 10K ,aed,7000.0,10000.0,8500.0,-1,0,0,0,0,0,0,0
-QC Analyst,AED 8K - AED 12K (Employer est.),"We are looking for QC Analys for our Dubai Head office, as per the following
-Well versed with Statistical Quality Control tools such as Control Charts and other applicable techniques to control processes.
-Record all necessary data to properly monitor process behaviour
-Discover issues in internal systems and identify root-causes
-Collaborate with relevant functions or departments within PMI to propose efficient Corrective and Preventive actions
-Monitor and evaluate the adequacy of the proposed and implemented Preventive Actions and highlight / propose more improvements whenever needed",-1,ECC Group,Dubai,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,-1,0,0,AED 8K - AED 12K ,aed,8000.0,12000.0,10000.0,-1,0,0,0,0,0,0,0
-Research Analyst for Due Diligence and Investigations,-1,"Pacific Strategies & Assessments – Dubai, United Arab Emirates
+Salary: AED3,500.00 - AED5,000.00 per month
+Ability to commute/relocate:
+Dubai: Reliably commute or planning to relocate before starting work (Required)",-1,Aldaem information technology,Dubai,18d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,AED 4K - AED 5K ,aed,4000.0,5000.0,4500.0,0,da,-1,0,0,0,0,0,0,0,0,0,0,other,analyst,Dubai
+Financial Analyst,AED 6K - AED 8K (Employer est.),"The Finance Team at Newcom is looking to onboard a Financial Analyst with some background on taxation to provide accurate and data-based information to contribute to the company’s profitability, stability, and liquidity.
+The candidate in the role will research and analyze financial information to help the company make well-informed decisions, write reports and monitor financial movements. The tax responsibilities include preparing all tax compliance, assisting in audits, and responding to tax correspondence.
+Responsibilities • Consolidate and analyze financial data (budgets, income statement forecasts etc) considering the company’s goals and financial standing
+Provide creative alternatives and recommendations to reduce costs and improve financial performance",-1,NEWCOM Computer Systems LLC,Dubai,30d+,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,2023-02-22,-1,0,0,AED 6K - AED 8K ,aed,6000.0,8000.0,7000.0,1,da,-1,0,0,0,0,0,0,0,0,0,0,other,analyst,Dubai
+Data Analyst,AED 7K - AED 10K (Employer est.),"Skills required- Data Cloud, Data Wareshousing, Power BI, Python, Microsoft Azure, Data Engineering, Data Modelling.
+Collecting and interpreting data
+Analysing results
+Reporting the results back to the relevant members of the business
+Identifying patterns and trends in data sets
+Working alongside teams within the business or the management team to establish business needs
+Defining new data collection and analysis processes
+Job Type: Full-time",3.9,GTS Corporate,Dubai,30d+,51 to 200 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,2023-02-22,-1,0,0,AED 7K - AED 10K ,aed,7000.0,10000.0,8500.0,1,da,-1,1,0,0,0,0,0,0,1,0,0,other,analyst,Dubai
+Financial Analyst,AED 6K (Employer est.),"Vegberry is a fresh food agritech business. We grow, certify, sell and distribute natural produce and provide a reliable year-round supply of high-quality products through a fully managed supply chain powered by industry-leading agricultural technology. Our main corporate values - social responsibility, stability, flexibility and reliability. We are looking for people with strong motivation and skills who are ready to develop and grow with the company.
+Position: Financial Analyst
+Employment Type: Full time
+Job Description:
+The Financial Analyst is responsible for providing financial analysis and support to the organization. This includes analyzing financial data, creating financial models, and making recommendations to improve financial performance. The Financial Analyst works closely with other departments to provide financial insight and support decision-making processes.",-1,Vegberry,Dubai,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,AED 6K ,aed,6000.0,6000.0,6000.0,1,da,-1,0,0,0,0,0,0,0,0,0,0,other,analyst,Dubai
+Data Scientist,AED 22K - AED 26K (Employer est.),"Roles and Responsibilities
+Identify valuable data sources and automate collection processes
+Undertake preprocessing of structured and unstructured data
+Analyze large amounts of information to discover trends and patterns
+Build predictive models and machine-learning algorithms
+Combine models through ensemble modeling
+Present information using data visualization techniques
+Propose solutions and strategies to business challenges
+Collaborate with engineering and product development teams",-1,Inspire Gulf Recruitment Solutions,Dubai,12d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,AED 22K - AED 26K ,aed,22000.0,26000.0,24000.0,0,ds,-1,0,0,0,0,0,0,0,0,0,0,other,data scientist,Dubai
+Research Analyst,-1,"Research Analyst for Due Diligence and Investigations
+Pacific Strategies & Assessments – Dubai, United Arab Emirates
 Full Time
 
 Background to the Firm:
@@ -184,73 +331,107 @@ documents under little direct supervision.
 analysis, investigations, or other related field of research.
 independently or as part of a team.
 level research and reports in English.
-1912 Goldcrest Executive Tower,
-Jumeirah Lake Towers,
-PO Box 112911,
-Dubai, United Arab Emirates
-T: +971 04 568 2247
-www.psagroup.com
 workload to deliver to deadline on projects.
 Compensation
 Monthly Salary of AED 13,000 + Insurance and other relevant benefits.
 Submit Application
 Interested applicants will send one-page resume and no more than one-page cover
-recruitmentdubai@psagroup.com",3.5,"Pacific Strategies & Assessments (PSA)
-3.5",Dubai,30d+,51 to 200 Employees,-1,Unknown,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,da,"AED 13,000",0,0,"AED 13,000",aed,13000.0,13000.0,13000.0,-1,0,0,0,0,0,0,0
-Junior Analyst - Dubai,-1,"Junior Analyst Roles
-Package: 25,000 – 30,000 AED
-Duration: Permanent
-The company is a small new investment fund with over 250 million capital backing. All three founders are HNWI’s and also very influential business men.
-Responsibilities:
-
-Understanding products, channels, systems, data and process workflows of financial institutions.
-Presentations preparation with analytics work.",4.6,"Tiger Recruitment Ltd
-4.6",Dubai,21d,1 to 50 Employees,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,da,"25,000 – 30,000",0,0,"25,000 – 30,000",aed,25000.0,30000.0,27500.0,-1,0,0,0,0,0,0,0
-product research analyst,AED 4K - AED 5K (Employer est.),"Product analysts perform market research and analyze market data, identifying consumer behaviors and trends. They make recommendations and provide launch strategies based on their analyses to increase firm profitability. Product analysts monitor product performance and recommend alterations to meet sales forecasts.
-Job Type: Full-time
-Salary: AED3,500.00 - AED5,000.00 per month
+recruitmentdubai@psagroup.com",3.5,Pacific Strategies & Assessments (PSA),Dubai,15d,51 to 200 Employees,-1,Unknown,-1,-1,Unknown / Non-Applicable,-1,2023-02-22,"AED 13,000",0,0,"AED 13,000",aed,13000.0,13000.0,13000.0,0,da,-1,0,0,0,0,0,0,0,0,0,0,other,analyst,Dubai
+Consumer Researcher / Analyst,AED 7K (Employer est.),"Job Title: Consumer Research
+Number of people required: 1 person
+Salary: 7-8k
+Job Responsibilities:
+l Responsible for user insight and research work on docking business lines, and establish user portraits;
+l Multi-channel collection of industry, competing products, and relevant information of target customer groups, multi-dimensional insight into the development trend of enterprise-level services, and output relevant reports;",3.2,MINISO JAPAN - UAE,Dubai,6d,1 to 50 Employees,2016,Company - Public,General Merchandise & Superstores,Retail & Wholesale,Less than $1 million (USD),-1,2023-02-22,-1,0,0,AED 7K ,aed,7000.0,7000.0,7000.0,0,da,7,0,0,0,0,0,0,0,0,0,0,other,analyst,Dubai
+Programmer Analyst,AED 4K - AED 5K (Employer est.),"The Programmer/Analyst's role is to define, develop, test, analyze, and maintain new software applications in support of the achievement of business requirements. This includes writing, coding, testing, and analyzing software programs and applications.
+Job Types: Full-time, Permanent
+Salary: AED3,500.00 - AED4,500.00 per month
+Experience:
+SQL (Preferred)
+Informatica (Preferred)
+Data warehouse (Preferred)",-1,Aldaem information technology,Dubai,20d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,AED 4K - AED 5K ,aed,4000.0,5000.0,4500.0,0,da,-1,0,0,0,0,0,0,0,0,0,1,other,analyst,Dubai
+Operations Analyst,AED 7K - AED 10K (Employer est.),"Analyst job profile
+The analyst gathers, interprets, and uses complex data to develop actionable steps to improve performance and optimize results.
+Analysts gather information and statistics, analyze trends, and then use charts and graphs to present the results.
+Analyst job description
+We are looking for an experienced Analyst to join our team, someone who will provide support for various business functions within Hospitality at DWTC, including data management, reporting and analytics, data analysis, data modeling, data profiling, and data visualization.
+MDR reporting/ Menu analyzing etc",-1,Experts Plus Recruitment Services,Dubai,16d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,AED 7K - AED 10K ,aed,7000.0,10000.0,8500.0,0,da,-1,0,0,0,0,0,0,0,0,1,0,other,analyst,Dubai
+SAP Payroll Functional Analyst,AED 90.00 - AED 136.88 Per Hour(Employer est.),"Years of experience: 5-8 years
+1. Strong experience in configuring and maintaining payroll systems, specifically SAP
+2. Knowledge of payroll laws and regulations, and experience working with payroll-related calculations such as taxes, deductions, and other payroll-related calculations
+3. Experience in functional unit testing, troubleshooting and debugging payroll systems, and experience in data migration and data integration
+4. Strong understanding of the integration of payroll system with other systems and processes like HR, IT, and finance
+5. Strong analytical and problem-solving skills and ability to work well in a team environment",-1,TechTalent,Remote,28d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,1,0,AED 90.00 - AED 136.88 Per Hour,aed,14400.0,21900.8,18150.4,0,da,-1,0,0,0,1,0,0,0,0,0,0,other,analyst,remote
+Financial Analyst,AED 8K - AED 12K (Employer est.),"· Consolidate and analyse financial data (budgets, income statement forecasts etc.) taking into account company’s goals and financial standing.
+· Provide creative alternatives and recommendations to reduce costs and improve financial performance.
+· Assemble and summarize data to structure sophisticated reports on financial status and risks.
+· Develop financial models, conduct benchmarking and process analysis.
+· Conduct business studies on past, future and comparative performance and develop forecast models.
+· Identify trends, advise company and recommend actions to a senior financial analyst based on sound analysis.",-1,Elite Global Fresh Trading LLC,Dubai,13d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,AED 8K - AED 12K ,aed,8000.0,12000.0,10000.0,0,da,-1,0,0,0,0,0,0,0,0,0,0,other,analyst,Dubai
+Financial Analyst,AED 9K - AED 12K (Employer est.),"Key Result Areas:
+Analyzing financial data & preparing reports based on analysis performed.
+Providing financial models & making financial forecasts and business plan.
+Cash & working capital reporting and management.
+Prepare analysis and recommendations on monthly financial figures from business units compared to budget in previous year and issue reports as required by the management.
+Budget preparation, capital expenditure analysis.
+Key skills / experience / qualification:",-1,TTI,Dubai,14d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,AED 9K - AED 12K ,aed,9000.0,12000.0,10500.0,0,da,-1,0,0,0,0,0,0,0,0,0,0,other,analyst,Dubai
+Data Scientist,AED 12K - AED 18K (Employer est.),"Junior Data Scientist
+Python (min 6 years experience required)
+Excel (advanced)
+Data Exploration/analysis & Transformation & Cleansing – ie, handling missing data, outliers, creating new features, one-hot encoding,calculating summary statistics
+Regression modelling
+Clustering/Segmentation
+Microsoft Powerpoint
+Job Type: Full-time",3.1,Reach Employment Services,Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-22,-1,0,0,AED 12K - AED 18K ,aed,12000.0,18000.0,15000.0,1,ds,-1,1,0,0,0,0,0,0,0,1,0,other,data scientist,Abu Dhabi
+Senior Data Scientist - Remote,AED 32K - AED 40K (Employer est.),"Launched in 2019, Binance.US is the fastest growing and most integrated digital asset marketplace in the United States, powered by matching engine and wallet technologies license from the world’s largest cryptocurrency exchange - Binance. Our mission is to provide liquidity, transparency, and efficiency to financial markets by creating products that leverage crypto to unlock the power of everything. We build bridges between traditional finance and digital markets that enable growth for all—empowering the future of finance. Binance.US is operated by BAM Trading Services.
+Responsibilities
+Identify potential business opportunities within your area and scope/design approaches to capture those opportunities
+Facilitate data driven decision making across the company",3.7,Binance.us,Dubai,30d+,501 to 1000 Employees,2019,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1,2023-02-22,-1,0,0,AED 32K - AED 40K ,aed,32000.0,40000.0,36000.0,1,ds,4,0,0,0,0,0,0,0,0,0,0,senior,data scientist,Dubai
+"JUNIOR DATA SCIENTIST - Dubai, UAE",-1,"Location: Dubai, UAE (We provide visa sponsorship & relocation assistance)
+Starting salary of USD 60,000 per annum + performance based bonus' - 0% tax environment.
+About Cobblestone Energy
+Cobblestone Energy is an energy trading company specialising in the Great Britain and European wholesale electricity markets. Founded in 2017, we are part of the next generation of companies defining the future of global commodity trading.
+We make use of advanced data analytics and extensive research to drive profitable decision making, trading enough electricity every day to power a small country, and growing every day. In doing so, we help to balance the electricity grid, lowering the cost to end consumers, and aiding the transition to a renewable future. Technology and risk management form the backbone of our business.",-1,"Cobblestone Energy, Dubai - UAE.",Sharjah,14d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,"USD 60,000 per annum",0,1,"USD 60,000 per annum",usd,18350.0,18350.0,18350.0,0,ds,-1,0,0,0,0,0,0,0,0,0,0,junior,data scientist,Sharjah
+"DATA SCIENTIST - Dubai, UAE",-1,"Location: Dubai, UAE (We provide visa sponsorship & relocation assistance)
+Annual Base Salary range of $75,000 - $100,000 per annum + performance-based bonus' - 0% tax environment.
+About Cobblestone Energy
+Cobblestone Energy is an energy trading company specialising in the Great Britain and European wholesale electricity markets. Founded in 2017, we are part of the next generation of companies defining the future of global commodity trading.
+We make use of advanced data analytics and extensive research to drive profitable decision making, trading enough electricity every day to power a small country, and growing every day. In doing so, we help to balance the electricity grid, lowering the cost to end consumers, and aiding the transition to a renewable future. Technology and risk management form the backbone of our business.",5.0,Cobblestone,Dubai,15d,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,2023-02-22,"$75,000 - $100,000",0,1,"$75,000 - $100,000",usd,22937.5,30583.333333333332,26760.416666666668,0,ds,-1,0,0,0,0,0,0,0,0,0,0,other,data scientist,Dubai
+Research Scientist,AED 20K - AED 25K (Employer est.),"Research Scientist Position Description
+General Details
+Position Duration 01/02/2023 to 31/12/2026
+Position Title Research Scientist or Postdoc Associate
+Project Title Quantum-inspired algorithms for computational fluid dynamics:
+the nuclear-industry use case
+Project Supervisor Dr. Mohamed Kamel RIAHI, Assistant Professor of Mathematics mohamed[dot]riahi[_at_]ku[dot]ac[_dot_]ae
+Academic
+Department Mathematics Department",3.6,Khalifa University,Abu Dhabi,16d,501 to 1000 Employees,2007,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,-1,2023-02-22,-1,0,0,AED 20K - AED 25K ,aed,20000.0,25000.0,22500.0,0,other,16,0,0,0,0,0,0,0,0,0,0,other,researcher,Abu Dhabi
+Business Intelligence Expert,AED 25K (Employer est.),"Translate business needs to technical specifications
+Design, build and deploy BI solutions (e.g., reporting tools)
+Maintain and support data analytics platforms (e.g., MicroStrategy)
+Create tools to store data (e.g., OLAP cubes)
+Conduct unit testing and troubleshooting
+Evaluate and improve existing BI systems
+Collaborate with teams to integrate systems
+Develop and execute database queries and conduct analyses
+Create visualizations and reports for requested projects",3.1,Reach Employment Services,Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-22,-1,0,0,AED 25K ,aed,25000.0,25000.0,25000.0,1,other,-1,0,0,0,0,0,0,0,0,0,0,senior,other,Abu Dhabi
+Sr. Machine learning engineer.,AED 10K - AED 30K (Employer est.),"Who we are?
+Dezzex uses Artificial Intelligence and Machine Learning technologies to advance the motor insurance industry by creating a system to automate claims. We use these technologies to improve insurance processes, reduce operational costs and enable a seamless customer experience. Our solution offering is also designed for the insurance companies, Insurance companies, Smart cities application.
+For applying as a Sr. Machine Learning Engineer, the person should have overall 7-8 years of experience out of which 4-5 years of experience should be in Machine & Deep Machine learning. Especially using Convolution Neural Network (CNN), Image Analytics TensorFlow, Open CV etc.
+For applying as just a data scientist (Junior), the person needs to have experience of 3 - 9 years.",-1,Dezzex,Dubai,30d+,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-22,-1,0,0,AED 10K - AED 30K ,aed,10000.0,30000.0,20000.0,1,ml,-1,0,0,0,0,0,1,1,0,0,0,senior,machine learning engineer,Dubai
+"Artificial Intelligence, Machine Learning and Python Trainer-Part Time",AED 50.00 - AED 75.00 Per Hour(Employer est.),"The Trainer must be experienced in teaching the subject to individual or a group of professionals or students. Must be having proper curriculum with practical assignments.
+Job Type: Part-time
+Salary: AED50.00 - AED75.00 per hour
 Ability to commute/relocate:
-Dubai: Reliably commute or planning to relocate before starting work (Required)",-1,Aldaem information technology,Dubai,3d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,da,"AED3,500.00 - AED5,000.00",0,0,"AED3,500.00 - AED5,000.00",aed,3500.0,5000.0,4250.0,-1,0,0,0,0,0,0,0
-Data Analyst,-1,"<BACK TO JOBS
-
-Job Code: 147/001/763
-
-Location: Dubai
-
-Salary: AED 10,000 – 15,000
-
-Industry: Contracting
-
-Job Brief:
-
-Our client is seeking a highly skilled and experienced individual to join their team as a Microsoft Excel and Power BI specialist. In this role, you will be responsible for creating custom code to generate reports from Excel sheets containing bill of cost and quantity data for construction projects.",4.8,"Agile Consultants
-4.8",Dubai,30d+,1 to 50 Employees,2017,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,Unknown / Non-Applicable,-1,2023-02-06,da,"AED 10,000 – 15,000",0,0,"AED 10,000 – 15,000",aed,10000.0,15000.0,12500.0,6,0,0,0,0,0,0,0
-Investment Advisor,AED 5K - AED 6K (Employer est.),"Investment Advisor
-Company Name:Client First Management Consultancy
-Responsibilities:
-Prospect for new clients
-Maintain and deepen relations with existing client
-Educate clients regarding the range of applicable investment options available to them
-Determine the risk tolerance of clients
-Develop personally tailored investment solutions for clients
-Follow through on the investment actions approved by clients",-1,Client First Management Consultancy,Dubai,11d,-1,-1,-1,-1,-1,-1,-1,2023-02-06,other,-1,0,0,AED 5K - AED 6K ,aed,5000.0,6000.0,5500.0,-1,0,0,0,0,0,0,0
-Business Analyst - Smart City,AED 15K (Employer est.),"Language: English & Arabic (Must)
-Gather business requirements
-Conduct market research and identify industry trends and best practices
-Conduct qualitative and quantitative data analysis
-Job Type: Full-time
-Salary: From AED15,000.00 per month
-Ability to commute/relocate:
-Abu Dhabi: Reliably commute or planning to relocate before starting work (Required)",3.1,"Reach Employment Services
-3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,da,"AED15,000.00 per month",0,0,"AED15,000.00 per month",aed,15000.0,15000.0,15000.0,-1,0,0,0,0,0,0,0
-E-commerce business analyst,AED 5K - AED 6K (Employer est.),"· Determining the company's e-commerce goals.
-· Identifying key areas for improvements, such as audience, acquisition, behavior, and conversions.
-· Monitoring and analyzing e-commerce metrics and figures.
-· Transforming e-commerce data into operational insights.
-· Researching competitors, alternative markets, and opportunities in the e-commerce space.
-· Brainstorming ideas to enhance and transform the company's e-commerce approach.
-· Developing e-commerce solutions in conjunction with marketing and IT personnel.",3.5,"GIBRALTAR TECHNOLOGIES LLC
-3.5",Dubai,30d+,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-06,da,-1,0,0,AED 5K - AED 6K ,aed,5000.0,6000.0,5500.0,-1,0,0,0,0,0,0,0
+Dubai: Reliably commute or planning to relocate before starting work (Required)",-1,YourOwn Institute of Training and Professional Development,Dubai,13d,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,2023-02-22,-1,1,0,AED 50.00 - AED 75.00 Per Hour,aed,8000.0,12000.0,10000.0,0,ml,-1,0,0,0,0,0,0,0,0,0,0,other,other,Dubai
+Machine Learning Engineer,AED 12K (Employer est.),"Mandatory Skills
+Azure ML, Databricks, MLOPS, Python
+Preferred Skills
+Spark, Cand with Production invironment.
+Mandatory
+1-2 Yrs exp Required into ML Deployement
+Job Description / Roles & Responsibilities (in Detail)
+Role Title: Machine Learning Engineer",-1,KBC Technologies,Dubai,9d,-1,-1,-1,-1,-1,-1,-1,2023-02-22,-1,0,0,AED 12K ,aed,12000.0,12000.0,12000.0,0,ml,-1,1,0,1,0,0,0,1,0,0,0,other,machine learning engineer,Dubai
 Artificial Intelligence / Machine Learning Expert,AED 10K (Employer est.),"Have an end-to-end hands-on ownership of ML features and various projects.
 Develop algorithms in key areas in Machine Learning.
 Lead the path of value-driven AI features that are innovative and deployable to real customers.
@@ -258,26 +439,4 @@ Knowledge the latest cutting-edge AI technologies.
 Have stellar communication skills, effectively expressing yourself. You convey and receive information in a clear, credible and consistent manner.
 2+ years' experience with Software Engineering.
 2+ years' experience in AI and ML algorithm development.
-Experience with one Cloud provider such as GCP, AWS, Azure, etc",3.1,"Reach Employment Services
-3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,ml,-1,0,0,AED 10K ,aed,10000.0,10000.0,10000.0,-1,0,0,0,1,0,0,1
-Data Collection - Image,AED 44.00 Per Hour(Employer est.),"Job Description - Images Collection Project
-Middle East market
-Wow AI is looking for native freelancers from the Middle East to work on our Images collection Project.
-It is a remote and freelance job that you can work from anywhere you want.
-Flexible working hours
-Competitive rate.
-About Wow AI
-Wow AI is a trusted partner that provides high-quality data solutions for AI training on a large scale. About the Project *To collect 10 pictures of each user, including:",-1,WOW AI LLC,Dubai,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,other,-1,1,0,AED 44.00 Per Hour,aed,44.0,44.0,44.0,-1,0,0,0,0,0,0,0
-Data Specialist,AED 20K (Employer est.),"Specialist
-9 years of IT Experience and minimum of 4+ years’ work experience in Data science, machine learning and data analysis.
-Strong experience in core infrastructure sectors such as Oil & Gas, Power, Transportation, Manufacturing is advantageous
-Data modelling skills: Power BI mandatory, Power Apps, Dataiku and SQL are advantageous
-Deep intellectual curiosity and passion for data
-Proven project management skills
-Excellent problem solving, communication, and analytical skills",3.1,"Reach Employment Services
-3.1",Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-06,other,-1,0,0,AED 20K ,aed,20000.0,20000.0,20000.0,-1,0,0,0,0,0,0,1
-Faculty - Cyber Law & Cyber Security,AED 150.00 Per Hour(Employer est.),"About Exeed College
-Exeed College, envisioned in 2016, is a prestigious enterprise of Westford Education Group providing top-rated online/part-time academic programs. A world-class education management provider based in the UAE, Exeed College facilitates Doctorate programs in business administration and education, specialized MBA programs, master’s programs in education, and various teacher qualification programs through its extensive presence in the GCC, African, Asian, Southeast and European countries.
-Job description
-Arguing Legal Counsel & adviser for Cyber Law & Cyber Security, Privacy Law
-Cyber Crime Lawyer",-1,Exeed College,Sharjah,30d+,-1,-1,-1,-1,-1,-1,-1,2023-02-06,other,-1,1,0,AED 150.00 Per Hour,aed,150.0,150.0,150.0,-1,0,0,0,0,0,0,0
+Experience with one Cloud provider such as GCP, AWS, Azure, etc",3.1,Reach Employment Services,Abu Dhabi,30d+,5001 to 10000 Employees,-1,Company - Private,-1,-1,$100 to $500 million (USD),-1,2023-02-22,-1,0,0,AED 10K ,aed,10000.0,10000.0,10000.0,1,ml,-1,0,0,0,1,0,0,1,0,0,0,senior,other,Abu Dhabi
