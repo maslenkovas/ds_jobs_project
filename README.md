@@ -6,7 +6,9 @@ As you probably saw, the job posters often do not provide the salary information
 * provide a tool for predicting estimated average salary for Data Science and similar roles based on a job description;
 * show the proccess of creating data science project scratch.
 
-📲 ➡️ You can check out the demo app of the project here: [DS salry prediction app](https://ds-salary-prediction.azurewebsites.net/)
+📲 You can check out the demo app of the project here: [➡️ Scientist salry prediction app ◀️](https://ds-salary-prediction.azurewebsites.net/)
+
+<img src="https://github.com/maslenkovas/ds_jobs_project/blob/master/images/demo.png" width="600">
 
 # Project structure 🗂 
 If you want to replicate this project on your machine, you should run files in the following order:
