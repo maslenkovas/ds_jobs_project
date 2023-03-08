@@ -9,6 +9,7 @@ import pickle5 as pickle
 from collections import Counter
 import re
 
+# paths to data
 curr_path = '/Users/svetlanamaslenkova/Documents/DS_project/'
 data_scraped_path = curr_path + 'data_scraped/'
 
